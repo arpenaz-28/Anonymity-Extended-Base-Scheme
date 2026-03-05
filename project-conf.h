@@ -8,6 +8,9 @@
 #define GW_NODE_ID   1
 #define AS_NODE_ID   2
 
+/* Enable energest for energy measurements */
+#define ENERGEST_CONF_ON 1
+
 /* CoAP payload ceiling — must hold the largest packet (81 bytes for the
  * GW token message).  128 is sufficient.                                   */
 #define COAP_MAX_CHUNK_SIZE   128
