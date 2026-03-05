@@ -121,6 +121,8 @@ static void res_authtoken_handler(coap_message_t *req, coap_message_t *resp,
         return;
     }
 
+    clock_time_t t_start = clock_time();
+
     /* Parse packet layout */
     uint8_t new_PID[32];
     uint8_t id_as_plain;
@@ -171,6 +173,12 @@ static void res_authtoken_handler(coap_message_t *req, coap_message_t *resp,
            "PID: %02x%02x%02x... stored.\n",
            id_d, id_as, new_PID[0], new_PID[1], new_PID[2]);
 
+    {
+        unsigned long proc_ms = (unsigned long)(
+            (clock_time() - t_start) * 1000UL / CLOCK_SECOND);
+        printf("GW: Token processing time: %lu ms\n", proc_ms);
+    }
+
     const char *msg = "OK";
     coap_set_payload(resp, (const uint8_t *)msg, strlen(msg));
 }
@@ -185,6 +193,8 @@ static void res_data_handler(coap_message_t *req, coap_message_t *resp,
 {
     const uint8_t *chunk;
     if (coap_get_payload(req, &chunk) < 48) return;
+
+    clock_time_t t_start = clock_time();
 
     uint8_t recv_PID[32], enc_data[16];
     memcpy(recv_PID,  chunk,      32);
@@ -207,6 +217,12 @@ static void res_data_handler(coap_message_t *req, coap_message_t *resp,
 
     printf("GW: Decrypted data [%u] from PID %02x%02x%02x... (device %u)\n",
            enc_data[0], recv_PID[0], recv_PID[1], recv_PID[2], sess->ID_d);
+
+    {
+        unsigned long proc_ms = (unsigned long)(
+            (clock_time() - t_start) * 1000UL / CLOCK_SECOND);
+        printf("GW: Data processing time: %lu ms\n", proc_ms);
+    }
 
     uint8_t reply[1] = {0};
     coap_set_payload(resp, reply, 1);
@@ -242,6 +258,9 @@ PROCESS_THREAD(gw_node, ev, data)
     coap_activate_resource(&res_data,      "test/data");
 
     printf("GW %u: Started (RPL root + CoAP server).\n", node_id);
+    printf("GW %u: Storage: %u bytes (%d sessions x %u bytes each)\n",
+           node_id, (unsigned)sizeof(sessions),
+           MAX_SESSIONS, (unsigned)sizeof(gw_session_t));
 
     while (1) {
         PROCESS_WAIT_EVENT();

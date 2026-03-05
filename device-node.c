@@ -84,6 +84,15 @@ static uint8_t count = 0;   /* auth+data round counter        */
 double cpu_reg,    energy_reg;
 double cpu_auth,   energy_auth;
 
+/* Enrollment energy snapshots */
+double cpu_enroll_before, energy_enroll_before;
+double cpu_enroll_after,  energy_enroll_after;
+
+/* Saved durations for metrics summary */
+static unsigned long metric_enroll_ms;
+static unsigned long metric_auth_ms;
+static unsigned long metric_data_ms;
+
 static void print_energest_stats(double *seconds_cpu, double *total_energy)
 {
     energest_flush();
@@ -207,6 +216,7 @@ static void client_reg1_handler(coap_message_t *resp)
     unsigned long dur = (unsigned long)(
         (clock_time() - t_enroll_start) * 1000UL / CLOCK_SECOND);
     printf("Node %u: [ENROLLMENT] Duration=%lu ms\n", id_d, dur);
+    metric_enroll_ms = dur;
 }
 
 static void client_auth_handler(coap_message_t *resp)
@@ -265,6 +275,7 @@ static void client_auth_handler(coap_message_t *resp)
         (clock_time() - t_auth_start) * 1000UL / CLOCK_SECOND);
     printf("Node %u: Auth OK. RTT=%lu ms. New PID=%02x%02x%02x\n",
            id_d, auth_ms, PID[0], PID[1], PID[2]);
+    metric_auth_ms = auth_ms;
 }
 
 static void client_data_handler(coap_message_t *resp)
@@ -276,6 +287,7 @@ static void client_data_handler(coap_message_t *resp)
     unsigned long data_ms = (unsigned long)(
         (clock_time() - t_data_start) * 1000UL / CLOCK_SECOND);
     printf("Node %u: [DATA] Confirmed. RTT=%lu ms\n", id_d, data_ms);
+    metric_data_ms = data_ms;
 }
 
 PROCESS(device_node, "Device Node");
@@ -369,6 +381,9 @@ PROCESS_THREAD(device_node, ev, data)
              * which does both reg COAPs in the reg==0 block).
              * ============================================================ */
             if (reg == 0) {
+                /* --- Enrollment energy snapshot (before) --- */
+                print_energest_stats(&cpu_enroll_before, &energy_enroll_before);
+
                 /* --- Reg-0 --- */
                 uint8_t p0[16];
                 memset(p0, 0, 16);
@@ -404,6 +419,9 @@ PROCESS_THREAD(device_node, ev, data)
                 COAP_BLOCKING_REQUEST(&ep_as, request, client_reg1_handler);
 
                 reg = 1;
+
+                /* --- Enrollment energy snapshot (after) --- */
+                print_energest_stats(&cpu_enroll_after, &energy_enroll_after);
 
             /* ============================================================
              * AUTH + DATA — same timer tick, measurement window matches
@@ -488,6 +506,56 @@ PROCESS_THREAD(device_node, ev, data)
                            id_d, count, id_d,
                            (cpu_auth - cpu_reg),
                            (energy_auth - energy_reg));
+
+                    /* =====================================================
+                     * COMPREHENSIVE METRICS SUMMARY
+                     * ===================================================== */
+                    printf("\n============ PROTOCOL METRICS SUMMARY (Node %u) ============\n", id_d);
+
+                    printf("--- Phase Timing ---\n");
+                    printf("  Enrollment       : %lu ms\n", metric_enroll_ms);
+                    printf("  Auth+KE RTT      : %lu ms\n", metric_auth_ms);
+                    printf("  Data RTT         : %lu ms\n", metric_data_ms);
+
+                    printf("--- Energy Consumption ---\n");
+                    printf("  Enrollment CPU   : %f s\n",
+                           cpu_enroll_after - cpu_enroll_before);
+                    printf("  Enrollment Energy: %f J\n",
+                           energy_enroll_after - energy_enroll_before);
+                    printf("  Auth+Data CPU    : %f s\n",
+                           cpu_auth - cpu_reg);
+                    printf("  Auth+Data Energy : %f J\n",
+                           energy_auth - energy_reg);
+
+                    printf("--- Communication Overhead (bytes) ---\n");
+                    printf("  Reg-0 req/resp   : 16 / 48\n");
+                    printf("  Reg-1 req/resp   : 48 / 10\n");
+                    printf("  Auth  req/resp   : 65 / 34\n");
+                    printf("  Token (AS->GW)   : 81\n");
+                    printf("  Data  req/resp   : 48 / 1\n");
+                    printf("  Enrollment total : 122 bytes\n");
+                    printf("  Auth+KE+Data tot : 229 bytes\n");
+
+                    printf("--- Storage Overhead (Device) ---\n");
+                    printf("  Shared key       : %u bytes\n",
+                           (unsigned)sizeof(K_AS_D));
+                    printf("  Session state    : %u bytes\n",
+                           (unsigned)(sizeof(m_d) + sizeof(k_gw_d) +
+                                     sizeof(PID) + sizeof(c_d) +
+                                     sizeof(c_as_d) + sizeof(y_d) +
+                                     sizeof(h_d) + sizeof(ts_1) +
+                                     sizeof(last_ts2)));
+                    printf("  Total device mem : %u bytes\n",
+                           (unsigned)(sizeof(K_AS_D) + sizeof(id_d) +
+                                     sizeof(id_as) + sizeof(c_d) +
+                                     sizeof(c_as_d) + sizeof(y_d) +
+                                     sizeof(h_d) + sizeof(ts_1) +
+                                     sizeof(last_ts2) + sizeof(m_d) +
+                                     sizeof(k_gw_d) + sizeof(PID) +
+                                     sizeof(auth_PID) + sizeof(auth_Y_dH) +
+                                     sizeof(reg) + sizeof(count)));
+
+                    printf("=============================================================\n\n");
                 }
 
             /* ============================================================

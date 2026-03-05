@@ -219,6 +219,8 @@ static void res_reg_handler(coap_message_t *req, coap_message_t *resp,
     const uint8_t *chunk;
     if (coap_get_payload(req, &chunk) != REG0_REQ_LEN) return;
 
+    clock_time_t t_start = clock_time();
+
     /* Decrypt and extract device ID */
     uint8_t plain[16];
     memcpy(plain, chunk, 16);
@@ -246,8 +248,11 @@ static void res_reg_handler(coap_message_t *req, coap_message_t *resp,
     aes_enc(K_AS_D, reply, 3);   /* encrypt 3 × 16 B blocks */
 
     coap_set_payload(resp, reply, REG0_REP_LEN);
-    printf("AS %u: Reg-0 for device %u (c_d=%u)\n",
-           node_id, id_d, clients[id_d].c_d);
+
+    unsigned long proc_ms = (unsigned long)(
+        (clock_time() - t_start) * 1000UL / CLOCK_SECOND);
+    printf("AS %u: Reg-0 for device %u (c_d=%u) proc=%lu ms\n",
+           node_id, id_d, clients[id_d].c_d, proc_ms);
 }
 
 /* ==========================================================================
@@ -268,6 +273,8 @@ static void res_reg1_handler(coap_message_t *req, coap_message_t *resp,
 {
     const uint8_t *chunk;
     if (coap_get_payload(req, &chunk) != REG1_REQ_LEN) return;
+
+    clock_time_t t_start = clock_time();
 
     /* Decrypt 3 blocks */
     uint8_t plain[REG1_REQ_LEN];
@@ -306,7 +313,11 @@ static void res_reg1_handler(coap_message_t *req, coap_message_t *resp,
 
     const char *msg = "Registered";
     coap_set_payload(resp, (const uint8_t *)msg, strlen(msg));
-    printf("AS %u: Reg-1 complete for device %u\n", node_id, id_d);
+
+    unsigned long proc_ms = (unsigned long)(
+        (clock_time() - t_start) * 1000UL / CLOCK_SECOND);
+    printf("AS %u: Reg-1 complete for device %u proc=%lu ms\n",
+           node_id, id_d, proc_ms);
 }
 
 /* ==========================================================================
@@ -343,6 +354,8 @@ static void res_auth_handler(coap_message_t *req, coap_message_t *resp,
         printf("AS %u: Auth packet too short (%d B)\n", node_id, len);
         return;
     }
+
+    clock_time_t t_auth_start = clock_time();
 
     uint8_t recv_PID[32], y_asd[32], ts_1;
     memcpy(recv_PID, chunk,      32);
@@ -536,6 +549,29 @@ static void res_auth_handler(coap_message_t *req, coap_message_t *resp,
         printf("AS %u: The CPU time and energy at the end of authentication"
                " for server %u are %f and %f\n",
                node_id, node_id, cpu_auth_as, energy_auth_as);
+    }
+
+    /* --- AS Metrics --- */
+    {
+        unsigned long proc_ms = (unsigned long)(
+            (clock_time() - t_auth_start) * 1000UL / CLOCK_SECOND);
+        printf("\n========== AS METRICS (server %u, device %u) ==========\n",
+               node_id, found);
+        printf("  Auth+KE proc time : %lu ms\n", proc_ms);
+        printf("  Cumulative CPU    : %f s\n", cpu_auth_as);
+        printf("  Cumulative Energy : %f J\n", energy_auth_as);
+        printf("--- AS Communication Overhead ---\n");
+        printf("  Reg-0 recv/send   : %u / %u bytes\n", REG0_REQ_LEN, REG0_REP_LEN);
+        printf("  Reg-1 recv/send   : %u / 10 bytes\n", REG1_REQ_LEN);
+        printf("  Auth  recv/send   : %u / %u bytes\n", AUTH_REQ_LEN, AUTH_REP_LEN);
+        printf("  Token to GW       : %u bytes\n", GW_TOKEN_LEN);
+        printf("--- AS Storage Overhead ---\n");
+        printf("  Per-client state  : %u bytes\n", (unsigned)sizeof(client_t));
+        printf("  Max clients       : %d\n", MAX_CLIENTS);
+        printf("  Client table      : %u bytes\n", (unsigned)sizeof(clients));
+        printf("  Token buffer      : %u bytes\n", (unsigned)sizeof(tok_buf));
+        printf("  AND accumulator   : %u bytes\n", (unsigned)sizeof(T_acc));
+        printf("=====================================================\n\n");
     }
 }
 
