@@ -539,21 +539,21 @@ PROCESS_THREAD(device_node, ev, data)
                     printf("--- Storage Overhead (Device) ---\n");
                     printf("  Shared key       : %u bytes\n",
                            (unsigned)sizeof(K_AS_D));
-                    printf("  Session state    : %u bytes\n",
-                           (unsigned)(sizeof(m_d) + sizeof(k_gw_d) +
-                                     sizeof(PID) + sizeof(c_d) +
-                                     sizeof(c_as_d) + sizeof(y_d) +
-                                     sizeof(h_d) + sizeof(ts_1) +
-                                     sizeof(last_ts2)));
-                    printf("  Total device mem : %u bytes\n",
-                           (unsigned)(sizeof(K_AS_D) + sizeof(id_d) +
-                                     sizeof(id_as) + sizeof(c_d) +
-                                     sizeof(c_as_d) + sizeof(y_d) +
-                                     sizeof(h_d) + sizeof(ts_1) +
-                                     sizeof(last_ts2) + sizeof(m_d) +
-                                     sizeof(k_gw_d) + sizeof(PID) +
-                                     sizeof(auth_PID) + sizeof(auth_Y_dH) +
-                                     sizeof(reg) + sizeof(count)));
+                    {
+                        unsigned session_sz =
+                            (unsigned)(sizeof(m_d) + sizeof(k_gw_d) +
+                                      sizeof(PID) + sizeof(c_d) +
+                                      sizeof(c_as_d) + sizeof(y_d) +
+                                      sizeof(h_d) + sizeof(ts_1) +
+                                      sizeof(last_ts2));
+                        printf("  Session state    : %u bytes\n", session_sz);
+                        printf("  Total device mem : %u bytes\n",
+                               session_sz +
+                               (unsigned)(sizeof(K_AS_D) + sizeof(id_d) +
+                                         sizeof(id_as) + sizeof(auth_PID) +
+                                         sizeof(auth_Y_dH) + sizeof(reg) +
+                                         sizeof(count)));
+                    }
 
                     printf("=============================================================\n\n");
                 }
