@@ -1,2286 +1,437 @@
-Random seed: 123456
-2000 76 [INFO: Main      ] Starting Contiki-NG-23e51c4
-2000 76 [INFO: Main      ] - Routing: RPL Lite
-2000 76 [INFO: Main      ] - Net: sicslowpan
-2000 76 [INFO: Main      ] - MAC: CSMA
-2000 76 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-2000 76 [INFO: Main      ] - 802.15.4 Default channel: 26
-2000 76 [INFO: Main      ] Node ID: 76
-2000 76 [INFO: Main      ] Link-layer address: 004c.004c.004c.004c
-2000 76 [INFO: Main      ] Tentative link-local IPv6 address: fe80::24c:4c:4c:4c
-2000 76 AS 76: Started.
-13000 69 [INFO: Main      ] Starting Contiki-NG-23e51c4
-13000 69 [INFO: Main      ] - Routing: RPL Lite
-13000 69 [INFO: Main      ] - Net: sicslowpan
-13000 69 [INFO: Main      ] - MAC: CSMA
-13000 69 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-13000 69 [INFO: Main      ] - 802.15.4 Default channel: 26
-13000 69 [INFO: Main      ] Node ID: 69
-13000 69 [INFO: Main      ] Link-layer address: 0045.0045.0045.0045
-13000 69 [INFO: Main      ] Tentative link-local IPv6 address: fe80::245:45:45:45
-13000 69 AS 69: Started.
-26000 39 [INFO: Main      ] Starting Contiki-NG-23e51c4
-26000 39 [INFO: Main      ] - Routing: RPL Lite
-26000 39 [INFO: Main      ] - Net: sicslowpan
-26000 39 [INFO: Main      ] - MAC: CSMA
-26000 39 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-26000 39 [INFO: Main      ] - 802.15.4 Default channel: 26
-26000 39 [INFO: Main      ] Node ID: 39
-26000 39 [INFO: Main      ] Link-layer address: 0027.0027.0027.0027
-26000 39 [INFO: Main      ] Tentative link-local IPv6 address: fe80::227:27:27:27
-26000 39 AS 39: Started.
-27000 34 [INFO: Main      ] Starting Contiki-NG-23e51c4
-27000 34 [INFO: Main      ] - Routing: RPL Lite
-27000 34 [INFO: Main      ] - Net: sicslowpan
-27000 34 [INFO: Main      ] - MAC: CSMA
-27000 34 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-27000 34 [INFO: Main      ] - 802.15.4 Default channel: 26
-27000 34 [INFO: Main      ] Node ID: 34
-27000 34 [INFO: Main      ] Link-layer address: 0022.0022.0022.0022
-27000 34 [INFO: Main      ] Tentative link-local IPv6 address: fe80::222:22:22:22
-27000 34 AS 34: Started.
-35000 24 [INFO: Main      ] Starting Contiki-NG-23e51c4
-35000 24 [INFO: Main      ] - Routing: RPL Lite
-35000 24 [INFO: Main      ] - Net: sicslowpan
-35000 24 [INFO: Main      ] - MAC: CSMA
-35000 24 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-35000 24 [INFO: Main      ] - 802.15.4 Default channel: 26
-35000 24 [INFO: Main      ] Node ID: 24
-35000 24 [INFO: Main      ] Link-layer address: 0018.0018.0018.0018
-35000 24 [INFO: Main      ] Tentative link-local IPv6 address: fe80::218:18:18:18
-35000 24 AS 24: Started.
-42000 70 [INFO: Main      ] Starting Contiki-NG-23e51c4
-42000 70 [INFO: Main      ] - Routing: RPL Lite
-42000 70 [INFO: Main      ] - Net: sicslowpan
-42000 70 [INFO: Main      ] - MAC: CSMA
-42000 70 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-42000 70 [INFO: Main      ] - 802.15.4 Default channel: 26
-42000 70 [INFO: Main      ] Node ID: 70
-42000 70 [INFO: Main      ] Link-layer address: 0046.0046.0046.0046
-42000 70 [INFO: Main      ] Tentative link-local IPv6 address: fe80::246:46:46:46
-42000 70 AS 70: Started.
-62000 85 [INFO: Main      ] Starting Contiki-NG-23e51c4
-62000 85 [INFO: Main      ] - Routing: RPL Lite
-62000 85 [INFO: Main      ] - Net: sicslowpan
-62000 85 [INFO: Main      ] - MAC: CSMA
-62000 85 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-62000 85 [INFO: Main      ] - 802.15.4 Default channel: 26
-62000 85 [INFO: Main      ] Node ID: 85
-62000 85 [INFO: Main      ] Link-layer address: 0055.0055.0055.0055
-62000 85 [INFO: Main      ] Tentative link-local IPv6 address: fe80::255:55:55:55
-73000 8 [INFO: Main      ] Starting Contiki-NG-23e51c4
-73000 8 [INFO: Main      ] - Routing: RPL Lite
-73000 8 [INFO: Main      ] - Net: sicslowpan
-73000 8 [INFO: Main      ] - MAC: CSMA
-73000 8 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-73000 8 [INFO: Main      ] - 802.15.4 Default channel: 26
-73000 8 [INFO: Main      ] Node ID: 8
-73000 8 [INFO: Main      ] Link-layer address: 0008.0008.0008.0008
-73000 8 [INFO: Main      ] Tentative link-local IPv6 address: fe80::208:8:8:8
-73000 8 AS 8: Started.
-79000 67 [INFO: Main      ] Starting Contiki-NG-23e51c4
-79000 67 [INFO: Main      ] - Routing: RPL Lite
-79000 67 [INFO: Main      ] - Net: sicslowpan
-79000 67 [INFO: Main      ] - MAC: CSMA
-79000 67 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-79000 67 [INFO: Main      ] - 802.15.4 Default channel: 26
-79000 67 [INFO: Main      ] Node ID: 67
-79000 67 [INFO: Main      ] Link-layer address: 0043.0043.0043.0043
-79000 67 [INFO: Main      ] Tentative link-local IPv6 address: fe80::243:43:43:43
-79000 67 AS 67: Started.
-106000 48 [INFO: Main      ] Starting Contiki-NG-23e51c4
-106000 48 [INFO: Main      ] - Routing: RPL Lite
-106000 48 [INFO: Main      ] - Net: sicslowpan
-106000 48 [INFO: Main      ] - MAC: CSMA
-106000 48 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-106000 48 [INFO: Main      ] - 802.15.4 Default channel: 26
-106000 48 [INFO: Main      ] Node ID: 48
-106000 48 [INFO: Main      ] Link-layer address: 0030.0030.0030.0030
-106000 48 [INFO: Main      ] Tentative link-local IPv6 address: fe80::230:30:30:30
-106000 48 AS 48: Started.
-110000 79 [INFO: Main      ] Starting Contiki-NG-23e51c4
-110000 79 [INFO: Main      ] - Routing: RPL Lite
-110000 79 [INFO: Main      ] - Net: sicslowpan
-110000 79 [INFO: Main      ] - MAC: CSMA
-110000 79 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-110000 79 [INFO: Main      ] - 802.15.4 Default channel: 26
-110000 79 [INFO: Main      ] Node ID: 79
-110000 79 [INFO: Main      ] Link-layer address: 004f.004f.004f.004f
-110000 79 [INFO: Main      ] Tentative link-local IPv6 address: fe80::24f:4f:4f:4f
-110000 79 AS 79: Started.
-112000 60 [INFO: Main      ] Starting Contiki-NG-23e51c4
-112000 60 [INFO: Main      ] - Routing: RPL Lite
-112000 60 [INFO: Main      ] - Net: sicslowpan
-112000 60 [INFO: Main      ] - MAC: CSMA
-112000 60 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-112000 60 [INFO: Main      ] - 802.15.4 Default channel: 26
-112000 60 [INFO: Main      ] Node ID: 60
-112000 60 [INFO: Main      ] Link-layer address: 003c.003c.003c.003c
-112000 60 [INFO: Main      ] Tentative link-local IPv6 address: fe80::23c:3c:3c:3c
-112000 60 AS 60: Started.
-116000 94 [INFO: Main      ] Starting Contiki-NG-23e51c4
-116000 94 [INFO: Main      ] - Routing: RPL Lite
-116000 94 [INFO: Main      ] - Net: sicslowpan
-116000 94 [INFO: Main      ] - MAC: CSMA
-116000 94 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-116000 94 [INFO: Main      ] - 802.15.4 Default channel: 26
-116000 94 [INFO: Main      ] Node ID: 94
-116000 94 [INFO: Main      ] Link-layer address: 005e.005e.005e.005e
-116000 94 [INFO: Main      ] Tentative link-local IPv6 address: fe80::25e:5e:5e:5e
-124000 50 [INFO: Main      ] Starting Contiki-NG-23e51c4
-124000 50 [INFO: Main      ] - Routing: RPL Lite
-124000 50 [INFO: Main      ] - Net: sicslowpan
-124000 50 [INFO: Main      ] - MAC: CSMA
-124000 50 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-124000 50 [INFO: Main      ] - 802.15.4 Default channel: 26
-124000 50 [INFO: Main      ] Node ID: 50
-124000 50 [INFO: Main      ] Link-layer address: 0032.0032.0032.0032
-124000 50 [INFO: Main      ] Tentative link-local IPv6 address: fe80::232:32:32:32
-124000 50 AS 50: Started.
-128000 98 [INFO: Main      ] Starting Contiki-NG-23e51c4
-128000 98 [INFO: Main      ] - Routing: RPL Lite
-128000 98 [INFO: Main      ] - Net: sicslowpan
-128000 98 [INFO: Main      ] - MAC: CSMA
-128000 98 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-128000 98 [INFO: Main      ] - 802.15.4 Default channel: 26
-128000 98 [INFO: Main      ] Node ID: 98
-128000 98 [INFO: Main      ] Link-layer address: 0062.0062.0062.0062
-128000 98 [INFO: Main      ] Tentative link-local IPv6 address: fe80::262:62:62:62
-140000 55 [INFO: Main      ] Starting Contiki-NG-23e51c4
-140000 55 [INFO: Main      ] - Routing: RPL Lite
-140000 55 [INFO: Main      ] - Net: sicslowpan
-140000 55 [INFO: Main      ] - MAC: CSMA
-140000 55 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-140000 55 [INFO: Main      ] - 802.15.4 Default channel: 26
-140000 55 [INFO: Main      ] Node ID: 55
-140000 55 [INFO: Main      ] Link-layer address: 0037.0037.0037.0037
-140000 55 [INFO: Main      ] Tentative link-local IPv6 address: fe80::237:37:37:37
-140000 55 AS 55: Started.
-142000 28 [INFO: Main      ] Starting Contiki-NG-23e51c4
-142000 28 [INFO: Main      ] - Routing: RPL Lite
-142000 28 [INFO: Main      ] - Net: sicslowpan
-142000 28 [INFO: Main      ] - MAC: CSMA
-142000 28 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-142000 28 [INFO: Main      ] - 802.15.4 Default channel: 26
-142000 28 [INFO: Main      ] Node ID: 28
-142000 28 [INFO: Main      ] Link-layer address: 001c.001c.001c.001c
-142000 28 [INFO: Main      ] Tentative link-local IPv6 address: fe80::21c:1c:1c:1c
-142000 28 AS 28: Started.
-182000 95 [INFO: Main      ] Starting Contiki-NG-23e51c4
-182000 95 [INFO: Main      ] - Routing: RPL Lite
-182000 95 [INFO: Main      ] - Net: sicslowpan
-182000 95 [INFO: Main      ] - MAC: CSMA
-182000 95 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-182000 95 [INFO: Main      ] - 802.15.4 Default channel: 26
-182000 95 [INFO: Main      ] Node ID: 95
-182000 95 [INFO: Main      ] Link-layer address: 005f.005f.005f.005f
-182000 95 [INFO: Main      ] Tentative link-local IPv6 address: fe80::25f:5f:5f:5f
-190000 11 [INFO: Main      ] Starting Contiki-NG-23e51c4
-190000 11 [INFO: Main      ] - Routing: RPL Lite
-190000 11 [INFO: Main      ] - Net: sicslowpan
-190000 11 [INFO: Main      ] - MAC: CSMA
-190000 11 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-190000 11 [INFO: Main      ] - 802.15.4 Default channel: 26
-190000 11 [INFO: Main      ] Node ID: 11
-190000 11 [INFO: Main      ] Link-layer address: 000b.000b.000b.000b
-190000 11 [INFO: Main      ] Tentative link-local IPv6 address: fe80::20b:b:b:b
-190000 11 AS 11: Started.
-197000 89 [INFO: Main      ] Starting Contiki-NG-23e51c4
-197000 89 [INFO: Main      ] - Routing: RPL Lite
-197000 89 [INFO: Main      ] - Net: sicslowpan
-197000 89 [INFO: Main      ] - MAC: CSMA
-197000 89 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-197000 89 [INFO: Main      ] - 802.15.4 Default channel: 26
-197000 89 [INFO: Main      ] Node ID: 89
-197000 89 [INFO: Main      ] Link-layer address: 0059.0059.0059.0059
-197000 89 [INFO: Main      ] Tentative link-local IPv6 address: fe80::259:59:59:59
-203000 31 [INFO: Main      ] Starting Contiki-NG-23e51c4
-203000 31 [INFO: Main      ] - Routing: RPL Lite
-203000 31 [INFO: Main      ] - Net: sicslowpan
-203000 31 [INFO: Main      ] - MAC: CSMA
-203000 31 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-203000 31 [INFO: Main      ] - 802.15.4 Default channel: 26
-203000 31 [INFO: Main      ] Node ID: 31
-203000 31 [INFO: Main      ] Link-layer address: 001f.001f.001f.001f
-203000 31 [INFO: Main      ] Tentative link-local IPv6 address: fe80::21f:1f:1f:1f
-203000 31 AS 31: Started.
-213000 35 [INFO: Main      ] Starting Contiki-NG-23e51c4
-213000 35 [INFO: Main      ] - Routing: RPL Lite
-213000 35 [INFO: Main      ] - Net: sicslowpan
-213000 35 [INFO: Main      ] - MAC: CSMA
-213000 35 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-213000 35 [INFO: Main      ] - 802.15.4 Default channel: 26
-213000 35 [INFO: Main      ] Node ID: 35
-213000 35 [INFO: Main      ] Link-layer address: 0023.0023.0023.0023
-213000 35 [INFO: Main      ] Tentative link-local IPv6 address: fe80::223:23:23:23
-213000 35 AS 35: Started.
-216000 54 [INFO: Main      ] Starting Contiki-NG-23e51c4
-216000 54 [INFO: Main      ] - Routing: RPL Lite
-216000 54 [INFO: Main      ] - Net: sicslowpan
-216000 54 [INFO: Main      ] - MAC: CSMA
-216000 54 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-216000 54 [INFO: Main      ] - 802.15.4 Default channel: 26
-216000 54 [INFO: Main      ] Node ID: 54
-216000 54 [INFO: Main      ] Link-layer address: 0036.0036.0036.0036
-216000 54 [INFO: Main      ] Tentative link-local IPv6 address: fe80::236:36:36:36
-216000 54 AS 54: Started.
-216000 88 [INFO: Main      ] Starting Contiki-NG-23e51c4
-216000 88 [INFO: Main      ] - Routing: RPL Lite
-216000 88 [INFO: Main      ] - Net: sicslowpan
-216000 88 [INFO: Main      ] - MAC: CSMA
-216000 88 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-216000 88 [INFO: Main      ] - 802.15.4 Default channel: 26
-216000 88 [INFO: Main      ] Node ID: 88
-216000 88 [INFO: Main      ] Link-layer address: 0058.0058.0058.0058
-216000 88 [INFO: Main      ] Tentative link-local IPv6 address: fe80::258:58:58:58
-217000 44 [INFO: Main      ] Starting Contiki-NG-23e51c4
-217000 44 [INFO: Main      ] - Routing: RPL Lite
-217000 44 [INFO: Main      ] - Net: sicslowpan
-217000 44 [INFO: Main      ] - MAC: CSMA
-217000 44 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-217000 44 [INFO: Main      ] - 802.15.4 Default channel: 26
-217000 44 [INFO: Main      ] Node ID: 44
-217000 44 [INFO: Main      ] Link-layer address: 002c.002c.002c.002c
-217000 44 [INFO: Main      ] Tentative link-local IPv6 address: fe80::22c:2c:2c:2c
-217000 44 AS 44: Started.
-218000 45 [INFO: Main      ] Starting Contiki-NG-23e51c4
-218000 45 [INFO: Main      ] - Routing: RPL Lite
-218000 45 [INFO: Main      ] - Net: sicslowpan
-218000 45 [INFO: Main      ] - MAC: CSMA
-218000 45 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-218000 45 [INFO: Main      ] - 802.15.4 Default channel: 26
-218000 45 [INFO: Main      ] Node ID: 45
-218000 45 [INFO: Main      ] Link-layer address: 002d.002d.002d.002d
-218000 45 [INFO: Main      ] Tentative link-local IPv6 address: fe80::22d:2d:2d:2d
-218000 45 AS 45: Started.
-229000 72 [INFO: Main      ] Starting Contiki-NG-23e51c4
-229000 72 [INFO: Main      ] - Routing: RPL Lite
-229000 72 [INFO: Main      ] - Net: sicslowpan
-229000 72 [INFO: Main      ] - MAC: CSMA
-229000 72 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-229000 72 [INFO: Main      ] - 802.15.4 Default channel: 26
-229000 72 [INFO: Main      ] Node ID: 72
-229000 72 [INFO: Main      ] Link-layer address: 0048.0048.0048.0048
-229000 72 [INFO: Main      ] Tentative link-local IPv6 address: fe80::248:48:48:48
-229000 72 AS 72: Started.
-236000 2 [INFO: Main      ] Starting Contiki-NG-23e51c4
-236000 2 [INFO: Main      ] - Routing: RPL Lite
-236000 2 [INFO: Main      ] - Net: sicslowpan
-236000 2 [INFO: Main      ] - MAC: CSMA
-236000 2 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-236000 2 [INFO: Main      ] - 802.15.4 Default channel: 26
-236000 2 [INFO: Main      ] Node ID: 2
-236000 2 [INFO: Main      ] Link-layer address: 0002.0002.0002.0002
-236000 2 [INFO: Main      ] Tentative link-local IPv6 address: fe80::202:2:2:2
-236000 2 AS 2: Started.
-244000 30 [INFO: Main      ] Starting Contiki-NG-23e51c4
-244000 30 [INFO: Main      ] - Routing: RPL Lite
-244000 30 [INFO: Main      ] - Net: sicslowpan
-244000 30 [INFO: Main      ] - MAC: CSMA
-244000 30 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-244000 30 [INFO: Main      ] - 802.15.4 Default channel: 26
-244000 30 [INFO: Main      ] Node ID: 30
-244000 30 [INFO: Main      ] Link-layer address: 001e.001e.001e.001e
-244000 30 [INFO: Main      ] Tentative link-local IPv6 address: fe80::21e:1e:1e:1e
-244000 30 AS 30: Started.
-250000 6 [INFO: Main      ] Starting Contiki-NG-23e51c4
-250000 6 [INFO: Main      ] - Routing: RPL Lite
-250000 6 [INFO: Main      ] - Net: sicslowpan
-250000 6 [INFO: Main      ] - MAC: CSMA
-250000 6 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-250000 6 [INFO: Main      ] - 802.15.4 Default channel: 26
-250000 6 [INFO: Main      ] Node ID: 6
-250000 6 [INFO: Main      ] Link-layer address: 0006.0006.0006.0006
-250000 6 [INFO: Main      ] Tentative link-local IPv6 address: fe80::206:6:6:6
-250000 6 AS 6: Started.
-251000 81 [INFO: Main      ] Starting Contiki-NG-23e51c4
-251000 81 [INFO: Main      ] - Routing: RPL Lite
-251000 81 [INFO: Main      ] - Net: sicslowpan
-251000 81 [INFO: Main      ] - MAC: CSMA
-251000 81 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-251000 81 [INFO: Main      ] - 802.15.4 Default channel: 26
-251000 81 [INFO: Main      ] Node ID: 81
-251000 81 [INFO: Main      ] Link-layer address: 0051.0051.0051.0051
-251000 81 [INFO: Main      ] Tentative link-local IPv6 address: fe80::251:51:51:51
-258000 77 [INFO: Main      ] Starting Contiki-NG-23e51c4
-258000 77 [INFO: Main      ] - Routing: RPL Lite
-258000 77 [INFO: Main      ] - Net: sicslowpan
-258000 77 [INFO: Main      ] - MAC: CSMA
-258000 77 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-258000 77 [INFO: Main      ] - 802.15.4 Default channel: 26
-258000 77 [INFO: Main      ] Node ID: 77
-258000 77 [INFO: Main      ] Link-layer address: 004d.004d.004d.004d
-258000 77 [INFO: Main      ] Tentative link-local IPv6 address: fe80::24d:4d:4d:4d
-258000 77 AS 77: Started.
-264000 86 [INFO: Main      ] Starting Contiki-NG-23e51c4
-264000 86 [INFO: Main      ] - Routing: RPL Lite
-264000 86 [INFO: Main      ] - Net: sicslowpan
-264000 86 [INFO: Main      ] - MAC: CSMA
-264000 86 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-264000 86 [INFO: Main      ] - 802.15.4 Default channel: 26
-264000 86 [INFO: Main      ] Node ID: 86
-264000 86 [INFO: Main      ] Link-layer address: 0056.0056.0056.0056
-264000 86 [INFO: Main      ] Tentative link-local IPv6 address: fe80::256:56:56:56
-273000 65 [INFO: Main      ] Starting Contiki-NG-23e51c4
-273000 65 [INFO: Main      ] - Routing: RPL Lite
-273000 65 [INFO: Main      ] - Net: sicslowpan
-273000 65 [INFO: Main      ] - MAC: CSMA
-273000 65 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-273000 65 [INFO: Main      ] - 802.15.4 Default channel: 26
-273000 65 [INFO: Main      ] Node ID: 65
-273000 65 [INFO: Main      ] Link-layer address: 0041.0041.0041.0041
-273000 65 [INFO: Main      ] Tentative link-local IPv6 address: fe80::241:41:41:41
-273000 65 AS 65: Started.
-300000 68 [INFO: Main      ] Starting Contiki-NG-23e51c4
-300000 68 [INFO: Main      ] - Routing: RPL Lite
-300000 68 [INFO: Main      ] - Net: sicslowpan
-300000 68 [INFO: Main      ] - MAC: CSMA
-300000 68 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-300000 68 [INFO: Main      ] - 802.15.4 Default channel: 26
-300000 68 [INFO: Main      ] Node ID: 68
-300000 68 [INFO: Main      ] Link-layer address: 0044.0044.0044.0044
-300000 68 [INFO: Main      ] Tentative link-local IPv6 address: fe80::244:44:44:44
-300000 68 AS 68: Started.
-311000 96 [INFO: Main      ] Starting Contiki-NG-23e51c4
-311000 96 [INFO: Main      ] - Routing: RPL Lite
-311000 96 [INFO: Main      ] - Net: sicslowpan
-311000 96 [INFO: Main      ] - MAC: CSMA
-311000 96 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-311000 96 [INFO: Main      ] - 802.15.4 Default channel: 26
-311000 96 [INFO: Main      ] Node ID: 96
-311000 96 [INFO: Main      ] Link-layer address: 0060.0060.0060.0060
-311000 96 [INFO: Main      ] Tentative link-local IPv6 address: fe80::260:60:60:60
-326000 18 [INFO: Main      ] Starting Contiki-NG-23e51c4
-326000 18 [INFO: Main      ] - Routing: RPL Lite
-326000 18 [INFO: Main      ] - Net: sicslowpan
-326000 18 [INFO: Main      ] - MAC: CSMA
-326000 18 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-326000 18 [INFO: Main      ] - 802.15.4 Default channel: 26
-326000 18 [INFO: Main      ] Node ID: 18
-326000 18 [INFO: Main      ] Link-layer address: 0012.0012.0012.0012
-326000 18 [INFO: Main      ] Tentative link-local IPv6 address: fe80::212:12:12:12
-326000 18 AS 18: Started.
-328000 63 [INFO: Main      ] Starting Contiki-NG-23e51c4
-328000 63 [INFO: Main      ] - Routing: RPL Lite
-328000 63 [INFO: Main      ] - Net: sicslowpan
-328000 63 [INFO: Main      ] - MAC: CSMA
-328000 63 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-328000 63 [INFO: Main      ] - 802.15.4 Default channel: 26
-328000 63 [INFO: Main      ] Node ID: 63
-328000 63 [INFO: Main      ] Link-layer address: 003f.003f.003f.003f
-328000 63 [INFO: Main      ] Tentative link-local IPv6 address: fe80::23f:3f:3f:3f
-328000 63 AS 63: Started.
-348000 4 [INFO: Main      ] Starting Contiki-NG-23e51c4
-348000 4 [INFO: Main      ] - Routing: RPL Lite
-348000 4 [INFO: Main      ] - Net: sicslowpan
-348000 4 [INFO: Main      ] - MAC: CSMA
-348000 4 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-348000 4 [INFO: Main      ] - 802.15.4 Default channel: 26
-348000 4 [INFO: Main      ] Node ID: 4
-348000 4 [INFO: Main      ] Link-layer address: 0004.0004.0004.0004
-348000 4 [INFO: Main      ] Tentative link-local IPv6 address: fe80::204:4:4:4
-348000 4 AS 4: Started.
-355000 33 [INFO: Main      ] Starting Contiki-NG-23e51c4
-355000 33 [INFO: Main      ] - Routing: RPL Lite
-355000 33 [INFO: Main      ] - Net: sicslowpan
-355000 33 [INFO: Main      ] - MAC: CSMA
-355000 33 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-355000 33 [INFO: Main      ] - 802.15.4 Default channel: 26
-355000 33 [INFO: Main      ] Node ID: 33
-355000 33 [INFO: Main      ] Link-layer address: 0021.0021.0021.0021
-355000 33 [INFO: Main      ] Tentative link-local IPv6 address: fe80::221:21:21:21
-355000 33 AS 33: Started.
-382000 1 [INFO: Main      ] Starting Contiki-NG-23e51c4
-382000 1 [INFO: Main      ] - Routing: RPL Lite
-382000 1 [INFO: Main      ] - Net: sicslowpan
-382000 1 [INFO: Main      ] - MAC: CSMA
-382000 1 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-382000 1 [INFO: Main      ] - 802.15.4 Default channel: 26
-382000 1 [INFO: Main      ] Node ID: 1
-382000 1 [INFO: Main      ] Link-layer address: 0001.0001.0001.0001
-382000 1 [INFO: Main      ] Tentative link-local IPv6 address: fe80::201:1:1:1
-382000 1 GW 1: Started (RPL root + CoAP server).
-382000 1 GW 1: Storage: 7480 bytes (110 sessions x 68 bytes each)
-385000 27 [INFO: Main      ] Starting Contiki-NG-23e51c4
-385000 27 [INFO: Main      ] - Routing: RPL Lite
-385000 27 [INFO: Main      ] - Net: sicslowpan
-385000 27 [INFO: Main      ] - MAC: CSMA
-385000 27 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-385000 27 [INFO: Main      ] - 802.15.4 Default channel: 26
-385000 27 [INFO: Main      ] Node ID: 27
-385000 27 [INFO: Main      ] Link-layer address: 001b.001b.001b.001b
-385000 27 [INFO: Main      ] Tentative link-local IPv6 address: fe80::21b:1b:1b:1b
-385000 27 AS 27: Started.
-389000 41 [INFO: Main      ] Starting Contiki-NG-23e51c4
-389000 41 [INFO: Main      ] - Routing: RPL Lite
-389000 41 [INFO: Main      ] - Net: sicslowpan
-389000 41 [INFO: Main      ] - MAC: CSMA
-389000 41 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-389000 41 [INFO: Main      ] - 802.15.4 Default channel: 26
-389000 41 [INFO: Main      ] Node ID: 41
-389000 41 [INFO: Main      ] Link-layer address: 0029.0029.0029.0029
-389000 41 [INFO: Main      ] Tentative link-local IPv6 address: fe80::229:29:29:29
-389000 41 AS 41: Started.
-391000 66 [INFO: Main      ] Starting Contiki-NG-23e51c4
-391000 66 [INFO: Main      ] - Routing: RPL Lite
-391000 66 [INFO: Main      ] - Net: sicslowpan
-391000 66 [INFO: Main      ] - MAC: CSMA
-391000 66 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-391000 66 [INFO: Main      ] - 802.15.4 Default channel: 26
-391000 66 [INFO: Main      ] Node ID: 66
-391000 66 [INFO: Main      ] Link-layer address: 0042.0042.0042.0042
-391000 66 [INFO: Main      ] Tentative link-local IPv6 address: fe80::242:42:42:42
-391000 66 AS 66: Started.
-394000 64 [INFO: Main      ] Starting Contiki-NG-23e51c4
-394000 64 [INFO: Main      ] - Routing: RPL Lite
-394000 64 [INFO: Main      ] - Net: sicslowpan
-394000 64 [INFO: Main      ] - MAC: CSMA
-394000 64 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-394000 64 [INFO: Main      ] - 802.15.4 Default channel: 26
-394000 64 [INFO: Main      ] Node ID: 64
-394000 64 [INFO: Main      ] Link-layer address: 0040.0040.0040.0040
-394000 64 [INFO: Main      ] Tentative link-local IPv6 address: fe80::240:40:40:40
-394000 64 AS 64: Started.
-402000 7 [INFO: Main      ] Starting Contiki-NG-23e51c4
-402000 7 [INFO: Main      ] - Routing: RPL Lite
-402000 7 [INFO: Main      ] - Net: sicslowpan
-402000 7 [INFO: Main      ] - MAC: CSMA
-402000 7 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-402000 7 [INFO: Main      ] - 802.15.4 Default channel: 26
-402000 7 [INFO: Main      ] Node ID: 7
-402000 7 [INFO: Main      ] Link-layer address: 0007.0007.0007.0007
-402000 7 [INFO: Main      ] Tentative link-local IPv6 address: fe80::207:7:7:7
-402000 7 AS 7: Started.
-412000 40 [INFO: Main      ] Starting Contiki-NG-23e51c4
-412000 40 [INFO: Main      ] - Routing: RPL Lite
-412000 40 [INFO: Main      ] - Net: sicslowpan
-412000 40 [INFO: Main      ] - MAC: CSMA
-412000 40 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-412000 40 [INFO: Main      ] - 802.15.4 Default channel: 26
-412000 40 [INFO: Main      ] Node ID: 40
-412000 40 [INFO: Main      ] Link-layer address: 0028.0028.0028.0028
-412000 40 [INFO: Main      ] Tentative link-local IPv6 address: fe80::228:28:28:28
-412000 40 AS 40: Started.
-412000 47 [INFO: Main      ] Starting Contiki-NG-23e51c4
-412000 47 [INFO: Main      ] - Routing: RPL Lite
-412000 47 [INFO: Main      ] - Net: sicslowpan
-412000 47 [INFO: Main      ] - MAC: CSMA
-412000 47 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-412000 47 [INFO: Main      ] - 802.15.4 Default channel: 26
-412000 47 [INFO: Main      ] Node ID: 47
-412000 47 [INFO: Main      ] Link-layer address: 002f.002f.002f.002f
-412000 47 [INFO: Main      ] Tentative link-local IPv6 address: fe80::22f:2f:2f:2f
-412000 47 AS 47: Started.
-414000 53 [INFO: Main      ] Starting Contiki-NG-23e51c4
-414000 53 [INFO: Main      ] - Routing: RPL Lite
-414000 53 [INFO: Main      ] - Net: sicslowpan
-414000 53 [INFO: Main      ] - MAC: CSMA
-414000 53 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-414000 53 [INFO: Main      ] - 802.15.4 Default channel: 26
-414000 53 [INFO: Main      ] Node ID: 53
-414000 53 [INFO: Main      ] Link-layer address: 0035.0035.0035.0035
-414000 53 [INFO: Main      ] Tentative link-local IPv6 address: fe80::235:35:35:35
-414000 53 AS 53: Started.
-445000 61 [INFO: Main      ] Starting Contiki-NG-23e51c4
-445000 61 [INFO: Main      ] - Routing: RPL Lite
-445000 61 [INFO: Main      ] - Net: sicslowpan
-445000 61 [INFO: Main      ] - MAC: CSMA
-445000 61 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-445000 61 [INFO: Main      ] - 802.15.4 Default channel: 26
-445000 61 [INFO: Main      ] Node ID: 61
-445000 61 [INFO: Main      ] Link-layer address: 003d.003d.003d.003d
-445000 61 [INFO: Main      ] Tentative link-local IPv6 address: fe80::23d:3d:3d:3d
-445000 61 AS 61: Started.
-450000 14 [INFO: Main      ] Starting Contiki-NG-23e51c4
-450000 14 [INFO: Main      ] - Routing: RPL Lite
-450000 14 [INFO: Main      ] - Net: sicslowpan
-450000 14 [INFO: Main      ] - MAC: CSMA
-450000 14 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-450000 14 [INFO: Main      ] - 802.15.4 Default channel: 26
-450000 14 [INFO: Main      ] Node ID: 14
-450000 14 [INFO: Main      ] Link-layer address: 000e.000e.000e.000e
-450000 14 [INFO: Main      ] Tentative link-local IPv6 address: fe80::20e:e:e:e
-450000 14 AS 14: Started.
-462000 15 [INFO: Main      ] Starting Contiki-NG-23e51c4
-462000 15 [INFO: Main      ] - Routing: RPL Lite
-462000 15 [INFO: Main      ] - Net: sicslowpan
-462000 15 [INFO: Main      ] - MAC: CSMA
-462000 15 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-462000 15 [INFO: Main      ] - 802.15.4 Default channel: 26
-462000 15 [INFO: Main      ] Node ID: 15
-462000 15 [INFO: Main      ] Link-layer address: 000f.000f.000f.000f
-462000 15 [INFO: Main      ] Tentative link-local IPv6 address: fe80::20f:f:f:f
-462000 15 AS 15: Started.
-465000 46 [INFO: Main      ] Starting Contiki-NG-23e51c4
-465000 46 [INFO: Main      ] - Routing: RPL Lite
-465000 46 [INFO: Main      ] - Net: sicslowpan
-465000 46 [INFO: Main      ] - MAC: CSMA
-465000 46 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-465000 46 [INFO: Main      ] - 802.15.4 Default channel: 26
-465000 46 [INFO: Main      ] Node ID: 46
-465000 46 [INFO: Main      ] Link-layer address: 002e.002e.002e.002e
-465000 46 [INFO: Main      ] Tentative link-local IPv6 address: fe80::22e:2e:2e:2e
-465000 46 AS 46: Started.
-467000 25 [INFO: Main      ] Starting Contiki-NG-23e51c4
-467000 25 [INFO: Main      ] - Routing: RPL Lite
-467000 25 [INFO: Main      ] - Net: sicslowpan
-467000 25 [INFO: Main      ] - MAC: CSMA
-467000 25 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-467000 25 [INFO: Main      ] - 802.15.4 Default channel: 26
-467000 25 [INFO: Main      ] Node ID: 25
-467000 25 [INFO: Main      ] Link-layer address: 0019.0019.0019.0019
-467000 25 [INFO: Main      ] Tentative link-local IPv6 address: fe80::219:19:19:19
-467000 25 AS 25: Started.
-471000 78 [INFO: Main      ] Starting Contiki-NG-23e51c4
-471000 78 [INFO: Main      ] - Routing: RPL Lite
-471000 78 [INFO: Main      ] - Net: sicslowpan
-471000 78 [INFO: Main      ] - MAC: CSMA
-471000 78 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-471000 78 [INFO: Main      ] - 802.15.4 Default channel: 26
-471000 78 [INFO: Main      ] Node ID: 78
-471000 78 [INFO: Main      ] Link-layer address: 004e.004e.004e.004e
-471000 78 [INFO: Main      ] Tentative link-local IPv6 address: fe80::24e:4e:4e:4e
-471000 78 AS 78: Started.
-472000 20 [INFO: Main      ] Starting Contiki-NG-23e51c4
-472000 20 [INFO: Main      ] - Routing: RPL Lite
-472000 20 [INFO: Main      ] - Net: sicslowpan
-472000 20 [INFO: Main      ] - MAC: CSMA
-472000 20 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-472000 20 [INFO: Main      ] - 802.15.4 Default channel: 26
-472000 20 [INFO: Main      ] Node ID: 20
-472000 20 [INFO: Main      ] Link-layer address: 0014.0014.0014.0014
-472000 20 [INFO: Main      ] Tentative link-local IPv6 address: fe80::214:14:14:14
-472000 20 AS 20: Started.
-473000 16 [INFO: Main      ] Starting Contiki-NG-23e51c4
-473000 16 [INFO: Main      ] - Routing: RPL Lite
-473000 16 [INFO: Main      ] - Net: sicslowpan
-473000 16 [INFO: Main      ] - MAC: CSMA
-473000 16 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-473000 16 [INFO: Main      ] - 802.15.4 Default channel: 26
-473000 16 [INFO: Main      ] Node ID: 16
-473000 16 [INFO: Main      ] Link-layer address: 0010.0010.0010.0010
-473000 16 [INFO: Main      ] Tentative link-local IPv6 address: fe80::210:10:10:10
-473000 16 AS 16: Started.
-473000 37 [INFO: Main      ] Starting Contiki-NG-23e51c4
-473000 37 [INFO: Main      ] - Routing: RPL Lite
-473000 37 [INFO: Main      ] - Net: sicslowpan
-473000 37 [INFO: Main      ] - MAC: CSMA
-473000 37 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-473000 37 [INFO: Main      ] - 802.15.4 Default channel: 26
-473000 37 [INFO: Main      ] Node ID: 37
-473000 37 [INFO: Main      ] Link-layer address: 0025.0025.0025.0025
-473000 37 [INFO: Main      ] Tentative link-local IPv6 address: fe80::225:25:25:25
-473000 37 AS 37: Started.
-478000 62 [INFO: Main      ] Starting Contiki-NG-23e51c4
-478000 62 [INFO: Main      ] - Routing: RPL Lite
-478000 62 [INFO: Main      ] - Net: sicslowpan
-478000 62 [INFO: Main      ] - MAC: CSMA
-478000 62 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-478000 62 [INFO: Main      ] - 802.15.4 Default channel: 26
-478000 62 [INFO: Main      ] Node ID: 62
-478000 62 [INFO: Main      ] Link-layer address: 003e.003e.003e.003e
-478000 62 [INFO: Main      ] Tentative link-local IPv6 address: fe80::23e:3e:3e:3e
-478000 62 AS 62: Started.
-483000 58 [INFO: Main      ] Starting Contiki-NG-23e51c4
-483000 58 [INFO: Main      ] - Routing: RPL Lite
-483000 58 [INFO: Main      ] - Net: sicslowpan
-483000 58 [INFO: Main      ] - MAC: CSMA
-483000 58 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-483000 58 [INFO: Main      ] - 802.15.4 Default channel: 26
-483000 58 [INFO: Main      ] Node ID: 58
-483000 58 [INFO: Main      ] Link-layer address: 003a.003a.003a.003a
-483000 58 [INFO: Main      ] Tentative link-local IPv6 address: fe80::23a:3a:3a:3a
-483000 58 AS 58: Started.
-491000 52 [INFO: Main      ] Starting Contiki-NG-23e51c4
-491000 52 [INFO: Main      ] - Routing: RPL Lite
-491000 52 [INFO: Main      ] - Net: sicslowpan
-491000 52 [INFO: Main      ] - MAC: CSMA
-491000 52 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-491000 52 [INFO: Main      ] - 802.15.4 Default channel: 26
-491000 52 [INFO: Main      ] Node ID: 52
-491000 52 [INFO: Main      ] Link-layer address: 0034.0034.0034.0034
-491000 52 [INFO: Main      ] Tentative link-local IPv6 address: fe80::234:34:34:34
-491000 52 AS 52: Started.
-501000 99 [INFO: Main      ] Starting Contiki-NG-23e51c4
-501000 99 [INFO: Main      ] - Routing: RPL Lite
-501000 99 [INFO: Main      ] - Net: sicslowpan
-501000 99 [INFO: Main      ] - MAC: CSMA
-501000 99 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-501000 99 [INFO: Main      ] - 802.15.4 Default channel: 26
-501000 99 [INFO: Main      ] Node ID: 99
-501000 99 [INFO: Main      ] Link-layer address: 0063.0063.0063.0063
-501000 99 [INFO: Main      ] Tentative link-local IPv6 address: fe80::263:63:63:63
-544000 74 [INFO: Main      ] Starting Contiki-NG-23e51c4
-544000 74 [INFO: Main      ] - Routing: RPL Lite
-544000 74 [INFO: Main      ] - Net: sicslowpan
-544000 74 [INFO: Main      ] - MAC: CSMA
-544000 74 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-544000 74 [INFO: Main      ] - 802.15.4 Default channel: 26
-544000 74 [INFO: Main      ] Node ID: 74
-544000 74 [INFO: Main      ] Link-layer address: 004a.004a.004a.004a
-544000 74 [INFO: Main      ] Tentative link-local IPv6 address: fe80::24a:4a:4a:4a
-544000 74 AS 74: Started.
-556000 10 [INFO: Main      ] Starting Contiki-NG-23e51c4
-556000 10 [INFO: Main      ] - Routing: RPL Lite
-556000 10 [INFO: Main      ] - Net: sicslowpan
-556000 10 [INFO: Main      ] - MAC: CSMA
-556000 10 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-556000 10 [INFO: Main      ] - 802.15.4 Default channel: 26
-556000 10 [INFO: Main      ] Node ID: 10
-556000 10 [INFO: Main      ] Link-layer address: 000a.000a.000a.000a
-556000 10 [INFO: Main      ] Tentative link-local IPv6 address: fe80::20a:a:a:a
-556000 10 AS 10: Started.
-584000 71 [INFO: Main      ] Starting Contiki-NG-23e51c4
-584000 71 [INFO: Main      ] - Routing: RPL Lite
-584000 71 [INFO: Main      ] - Net: sicslowpan
-584000 71 [INFO: Main      ] - MAC: CSMA
-584000 71 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-584000 71 [INFO: Main      ] - 802.15.4 Default channel: 26
-584000 71 [INFO: Main      ] Node ID: 71
-584000 71 [INFO: Main      ] Link-layer address: 0047.0047.0047.0047
-584000 71 [INFO: Main      ] Tentative link-local IPv6 address: fe80::247:47:47:47
-584000 71 AS 71: Started.
-594000 12 [INFO: Main      ] Starting Contiki-NG-23e51c4
-594000 12 [INFO: Main      ] - Routing: RPL Lite
-594000 12 [INFO: Main      ] - Net: sicslowpan
-594000 12 [INFO: Main      ] - MAC: CSMA
-594000 12 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-594000 12 [INFO: Main      ] - 802.15.4 Default channel: 26
-594000 12 [INFO: Main      ] Node ID: 12
-594000 12 [INFO: Main      ] Link-layer address: 000c.000c.000c.000c
-594000 12 [INFO: Main      ] Tentative link-local IPv6 address: fe80::20c:c:c:c
-594000 12 AS 12: Started.
-610000 93 [INFO: Main      ] Starting Contiki-NG-23e51c4
-610000 93 [INFO: Main      ] - Routing: RPL Lite
-610000 93 [INFO: Main      ] - Net: sicslowpan
-610000 93 [INFO: Main      ] - MAC: CSMA
-610000 93 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-610000 93 [INFO: Main      ] - 802.15.4 Default channel: 26
-610000 93 [INFO: Main      ] Node ID: 93
-610000 93 [INFO: Main      ] Link-layer address: 005d.005d.005d.005d
-610000 93 [INFO: Main      ] Tentative link-local IPv6 address: fe80::25d:5d:5d:5d
-625000 49 [INFO: Main      ] Starting Contiki-NG-23e51c4
-625000 49 [INFO: Main      ] - Routing: RPL Lite
-625000 49 [INFO: Main      ] - Net: sicslowpan
-625000 49 [INFO: Main      ] - MAC: CSMA
-625000 49 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-625000 49 [INFO: Main      ] - 802.15.4 Default channel: 26
-625000 49 [INFO: Main      ] Node ID: 49
-625000 49 [INFO: Main      ] Link-layer address: 0031.0031.0031.0031
-625000 49 [INFO: Main      ] Tentative link-local IPv6 address: fe80::231:31:31:31
-625000 49 AS 49: Started.
-631000 75 [INFO: Main      ] Starting Contiki-NG-23e51c4
-631000 75 [INFO: Main      ] - Routing: RPL Lite
-631000 75 [INFO: Main      ] - Net: sicslowpan
-631000 75 [INFO: Main      ] - MAC: CSMA
-631000 75 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-631000 75 [INFO: Main      ] - 802.15.4 Default channel: 26
-631000 75 [INFO: Main      ] Node ID: 75
-631000 75 [INFO: Main      ] Link-layer address: 004b.004b.004b.004b
-631000 75 [INFO: Main      ] Tentative link-local IPv6 address: fe80::24b:4b:4b:4b
-631000 75 AS 75: Started.
-637000 29 [INFO: Main      ] Starting Contiki-NG-23e51c4
-637000 29 [INFO: Main      ] - Routing: RPL Lite
-637000 29 [INFO: Main      ] - Net: sicslowpan
-637000 29 [INFO: Main      ] - MAC: CSMA
-637000 29 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-637000 29 [INFO: Main      ] - 802.15.4 Default channel: 26
-637000 29 [INFO: Main      ] Node ID: 29
-637000 29 [INFO: Main      ] Link-layer address: 001d.001d.001d.001d
-637000 29 [INFO: Main      ] Tentative link-local IPv6 address: fe80::21d:1d:1d:1d
-637000 29 AS 29: Started.
-663000 22 [INFO: Main      ] Starting Contiki-NG-23e51c4
-663000 22 [INFO: Main      ] - Routing: RPL Lite
-663000 22 [INFO: Main      ] - Net: sicslowpan
-663000 22 [INFO: Main      ] - MAC: CSMA
-663000 22 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-663000 22 [INFO: Main      ] - 802.15.4 Default channel: 26
-663000 22 [INFO: Main      ] Node ID: 22
-663000 22 [INFO: Main      ] Link-layer address: 0016.0016.0016.0016
-663000 22 [INFO: Main      ] Tentative link-local IPv6 address: fe80::216:16:16:16
-663000 22 AS 22: Started.
-685000 51 [INFO: Main      ] Starting Contiki-NG-23e51c4
-685000 51 [INFO: Main      ] - Routing: RPL Lite
-685000 51 [INFO: Main      ] - Net: sicslowpan
-685000 51 [INFO: Main      ] - MAC: CSMA
-685000 51 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-685000 51 [INFO: Main      ] - 802.15.4 Default channel: 26
-685000 51 [INFO: Main      ] Node ID: 51
-685000 51 [INFO: Main      ] Link-layer address: 0033.0033.0033.0033
-685000 51 [INFO: Main      ] Tentative link-local IPv6 address: fe80::233:33:33:33
-685000 51 AS 51: Started.
-689000 43 [INFO: Main      ] Starting Contiki-NG-23e51c4
-689000 43 [INFO: Main      ] - Routing: RPL Lite
-689000 43 [INFO: Main      ] - Net: sicslowpan
-689000 43 [INFO: Main      ] - MAC: CSMA
-689000 43 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-689000 43 [INFO: Main      ] - 802.15.4 Default channel: 26
-689000 43 [INFO: Main      ] Node ID: 43
-689000 43 [INFO: Main      ] Link-layer address: 002b.002b.002b.002b
-689000 43 [INFO: Main      ] Tentative link-local IPv6 address: fe80::22b:2b:2b:2b
-689000 43 AS 43: Started.
-690000 26 [INFO: Main      ] Starting Contiki-NG-23e51c4
-690000 26 [INFO: Main      ] - Routing: RPL Lite
-690000 26 [INFO: Main      ] - Net: sicslowpan
-690000 26 [INFO: Main      ] - MAC: CSMA
-690000 26 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-690000 26 [INFO: Main      ] - 802.15.4 Default channel: 26
-690000 26 [INFO: Main      ] Node ID: 26
-690000 26 [INFO: Main      ] Link-layer address: 001a.001a.001a.001a
-690000 26 [INFO: Main      ] Tentative link-local IPv6 address: fe80::21a:1a:1a:1a
-690000 26 AS 26: Started.
-695000 56 [INFO: Main      ] Starting Contiki-NG-23e51c4
-695000 56 [INFO: Main      ] - Routing: RPL Lite
-695000 56 [INFO: Main      ] - Net: sicslowpan
-695000 56 [INFO: Main      ] - MAC: CSMA
-695000 56 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-695000 56 [INFO: Main      ] - 802.15.4 Default channel: 26
-695000 56 [INFO: Main      ] Node ID: 56
-695000 56 [INFO: Main      ] Link-layer address: 0038.0038.0038.0038
-695000 56 [INFO: Main      ] Tentative link-local IPv6 address: fe80::238:38:38:38
-695000 56 AS 56: Started.
-708000 9 [INFO: Main      ] Starting Contiki-NG-23e51c4
-708000 9 [INFO: Main      ] - Routing: RPL Lite
-708000 9 [INFO: Main      ] - Net: sicslowpan
-708000 9 [INFO: Main      ] - MAC: CSMA
-708000 9 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-708000 9 [INFO: Main      ] - 802.15.4 Default channel: 26
-708000 9 [INFO: Main      ] Node ID: 9
-708000 9 [INFO: Main      ] Link-layer address: 0009.0009.0009.0009
-708000 9 [INFO: Main      ] Tentative link-local IPv6 address: fe80::209:9:9:9
-708000 9 AS 9: Started.
-710000 82 [INFO: Main      ] Starting Contiki-NG-23e51c4
-710000 82 [INFO: Main      ] - Routing: RPL Lite
-710000 82 [INFO: Main      ] - Net: sicslowpan
-710000 82 [INFO: Main      ] - MAC: CSMA
-710000 82 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-710000 82 [INFO: Main      ] - 802.15.4 Default channel: 26
-710000 82 [INFO: Main      ] Node ID: 82
-710000 82 [INFO: Main      ] Link-layer address: 0052.0052.0052.0052
-710000 82 [INFO: Main      ] Tentative link-local IPv6 address: fe80::252:52:52:52
-715000 5 [INFO: Main      ] Starting Contiki-NG-23e51c4
-715000 5 [INFO: Main      ] - Routing: RPL Lite
-715000 5 [INFO: Main      ] - Net: sicslowpan
-715000 5 [INFO: Main      ] - MAC: CSMA
-715000 5 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-715000 5 [INFO: Main      ] - 802.15.4 Default channel: 26
-715000 5 [INFO: Main      ] Node ID: 5
-715000 5 [INFO: Main      ] Link-layer address: 0005.0005.0005.0005
-715000 5 [INFO: Main      ] Tentative link-local IPv6 address: fe80::205:5:5:5
-715000 5 AS 5: Started.
-719000 19 [INFO: Main      ] Starting Contiki-NG-23e51c4
-719000 19 [INFO: Main      ] - Routing: RPL Lite
-719000 19 [INFO: Main      ] - Net: sicslowpan
-719000 19 [INFO: Main      ] - MAC: CSMA
-719000 19 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-719000 19 [INFO: Main      ] - 802.15.4 Default channel: 26
-719000 19 [INFO: Main      ] Node ID: 19
-719000 19 [INFO: Main      ] Link-layer address: 0013.0013.0013.0013
-719000 19 [INFO: Main      ] Tentative link-local IPv6 address: fe80::213:13:13:13
-719000 19 AS 19: Started.
-719000 42 [INFO: Main      ] Starting Contiki-NG-23e51c4
-719000 42 [INFO: Main      ] - Routing: RPL Lite
-719000 42 [INFO: Main      ] - Net: sicslowpan
-719000 42 [INFO: Main      ] - MAC: CSMA
-719000 42 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-719000 42 [INFO: Main      ] - 802.15.4 Default channel: 26
-719000 42 [INFO: Main      ] Node ID: 42
-719000 42 [INFO: Main      ] Link-layer address: 002a.002a.002a.002a
-719000 42 [INFO: Main      ] Tentative link-local IPv6 address: fe80::22a:2a:2a:2a
-719000 42 AS 42: Started.
-740000 80 [INFO: Main      ] Starting Contiki-NG-23e51c4
-740000 80 [INFO: Main      ] - Routing: RPL Lite
-740000 80 [INFO: Main      ] - Net: sicslowpan
-740000 80 [INFO: Main      ] - MAC: CSMA
-740000 80 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-740000 80 [INFO: Main      ] - 802.15.4 Default channel: 26
-740000 80 [INFO: Main      ] Node ID: 80
-740000 80 [INFO: Main      ] Link-layer address: 0050.0050.0050.0050
-740000 80 [INFO: Main      ] Tentative link-local IPv6 address: fe80::250:50:50:50
-740000 80 AS 80: Started.
-767000 90 [INFO: Main      ] Starting Contiki-NG-23e51c4
-767000 90 [INFO: Main      ] - Routing: RPL Lite
-767000 90 [INFO: Main      ] - Net: sicslowpan
-767000 90 [INFO: Main      ] - MAC: CSMA
-767000 90 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-767000 90 [INFO: Main      ] - 802.15.4 Default channel: 26
-767000 90 [INFO: Main      ] Node ID: 90
-767000 90 [INFO: Main      ] Link-layer address: 005a.005a.005a.005a
-767000 90 [INFO: Main      ] Tentative link-local IPv6 address: fe80::25a:5a:5a:5a
-779000 87 [INFO: Main      ] Starting Contiki-NG-23e51c4
-779000 87 [INFO: Main      ] - Routing: RPL Lite
-779000 87 [INFO: Main      ] - Net: sicslowpan
-779000 87 [INFO: Main      ] - MAC: CSMA
-779000 87 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-779000 87 [INFO: Main      ] - 802.15.4 Default channel: 26
-779000 87 [INFO: Main      ] Node ID: 87
-779000 87 [INFO: Main      ] Link-layer address: 0057.0057.0057.0057
-779000 87 [INFO: Main      ] Tentative link-local IPv6 address: fe80::257:57:57:57
-788000 38 [INFO: Main      ] Starting Contiki-NG-23e51c4
-788000 38 [INFO: Main      ] - Routing: RPL Lite
-788000 38 [INFO: Main      ] - Net: sicslowpan
-788000 38 [INFO: Main      ] - MAC: CSMA
-788000 38 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-788000 38 [INFO: Main      ] - 802.15.4 Default channel: 26
-788000 38 [INFO: Main      ] Node ID: 38
-788000 38 [INFO: Main      ] Link-layer address: 0026.0026.0026.0026
-788000 38 [INFO: Main      ] Tentative link-local IPv6 address: fe80::226:26:26:26
-788000 38 AS 38: Started.
-806000 97 [INFO: Main      ] Starting Contiki-NG-23e51c4
-806000 97 [INFO: Main      ] - Routing: RPL Lite
-806000 97 [INFO: Main      ] - Net: sicslowpan
-806000 97 [INFO: Main      ] - MAC: CSMA
-806000 97 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-806000 97 [INFO: Main      ] - 802.15.4 Default channel: 26
-806000 97 [INFO: Main      ] Node ID: 97
-806000 97 [INFO: Main      ] Link-layer address: 0061.0061.0061.0061
-806000 97 [INFO: Main      ] Tentative link-local IPv6 address: fe80::261:61:61:61
-809000 17 [INFO: Main      ] Starting Contiki-NG-23e51c4
-809000 17 [INFO: Main      ] - Routing: RPL Lite
-809000 17 [INFO: Main      ] - Net: sicslowpan
-809000 17 [INFO: Main      ] - MAC: CSMA
-809000 17 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-809000 17 [INFO: Main      ] - 802.15.4 Default channel: 26
-809000 17 [INFO: Main      ] Node ID: 17
-809000 17 [INFO: Main      ] Link-layer address: 0011.0011.0011.0011
-809000 17 [INFO: Main      ] Tentative link-local IPv6 address: fe80::211:11:11:11
-809000 17 AS 17: Started.
-830000 92 [INFO: Main      ] Starting Contiki-NG-23e51c4
-830000 92 [INFO: Main      ] - Routing: RPL Lite
-830000 92 [INFO: Main      ] - Net: sicslowpan
-830000 92 [INFO: Main      ] - MAC: CSMA
-830000 92 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-830000 92 [INFO: Main      ] - 802.15.4 Default channel: 26
-830000 92 [INFO: Main      ] Node ID: 92
-830000 92 [INFO: Main      ] Link-layer address: 005c.005c.005c.005c
-830000 92 [INFO: Main      ] Tentative link-local IPv6 address: fe80::25c:5c:5c:5c
-831000 73 [INFO: Main      ] Starting Contiki-NG-23e51c4
-831000 73 [INFO: Main      ] - Routing: RPL Lite
-831000 73 [INFO: Main      ] - Net: sicslowpan
-831000 73 [INFO: Main      ] - MAC: CSMA
-831000 73 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-831000 73 [INFO: Main      ] - 802.15.4 Default channel: 26
-831000 73 [INFO: Main      ] Node ID: 73
-831000 73 [INFO: Main      ] Link-layer address: 0049.0049.0049.0049
-831000 73 [INFO: Main      ] Tentative link-local IPv6 address: fe80::249:49:49:49
-831000 73 AS 73: Started.
-843000 83 [INFO: Main      ] Starting Contiki-NG-23e51c4
-843000 83 [INFO: Main      ] - Routing: RPL Lite
-843000 83 [INFO: Main      ] - Net: sicslowpan
-843000 83 [INFO: Main      ] - MAC: CSMA
-843000 83 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-843000 83 [INFO: Main      ] - 802.15.4 Default channel: 26
-843000 83 [INFO: Main      ] Node ID: 83
-843000 83 [INFO: Main      ] Link-layer address: 0053.0053.0053.0053
-843000 83 [INFO: Main      ] Tentative link-local IPv6 address: fe80::253:53:53:53
-874000 84 [INFO: Main      ] Starting Contiki-NG-23e51c4
-874000 84 [INFO: Main      ] - Routing: RPL Lite
-874000 84 [INFO: Main      ] - Net: sicslowpan
-874000 84 [INFO: Main      ] - MAC: CSMA
-874000 84 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-874000 84 [INFO: Main      ] - 802.15.4 Default channel: 26
-874000 84 [INFO: Main      ] Node ID: 84
-874000 84 [INFO: Main      ] Link-layer address: 0054.0054.0054.0054
-874000 84 [INFO: Main      ] Tentative link-local IPv6 address: fe80::254:54:54:54
-881000 36 [INFO: Main      ] Starting Contiki-NG-23e51c4
-881000 36 [INFO: Main      ] - Routing: RPL Lite
-881000 36 [INFO: Main      ] - Net: sicslowpan
-881000 36 [INFO: Main      ] - MAC: CSMA
-881000 36 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-881000 36 [INFO: Main      ] - 802.15.4 Default channel: 26
-881000 36 [INFO: Main      ] Node ID: 36
-881000 36 [INFO: Main      ] Link-layer address: 0024.0024.0024.0024
-881000 36 [INFO: Main      ] Tentative link-local IPv6 address: fe80::224:24:24:24
-881000 36 AS 36: Started.
-884000 13 [INFO: Main      ] Starting Contiki-NG-23e51c4
-884000 13 [INFO: Main      ] - Routing: RPL Lite
-884000 13 [INFO: Main      ] - Net: sicslowpan
-884000 13 [INFO: Main      ] - MAC: CSMA
-884000 13 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-884000 13 [INFO: Main      ] - 802.15.4 Default channel: 26
-884000 13 [INFO: Main      ] Node ID: 13
-884000 13 [INFO: Main      ] Link-layer address: 000d.000d.000d.000d
-884000 13 [INFO: Main      ] Tentative link-local IPv6 address: fe80::20d:d:d:d
-884000 13 AS 13: Started.
-885000 59 [INFO: Main      ] Starting Contiki-NG-23e51c4
-885000 59 [INFO: Main      ] - Routing: RPL Lite
-885000 59 [INFO: Main      ] - Net: sicslowpan
-885000 59 [INFO: Main      ] - MAC: CSMA
-885000 59 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-885000 59 [INFO: Main      ] - 802.15.4 Default channel: 26
-885000 59 [INFO: Main      ] Node ID: 59
-885000 59 [INFO: Main      ] Link-layer address: 003b.003b.003b.003b
-885000 59 [INFO: Main      ] Tentative link-local IPv6 address: fe80::23b:3b:3b:3b
-885000 59 AS 59: Started.
-899000 3 [INFO: Main      ] Starting Contiki-NG-23e51c4
-899000 3 [INFO: Main      ] - Routing: RPL Lite
-899000 3 [INFO: Main      ] - Net: sicslowpan
-899000 3 [INFO: Main      ] - MAC: CSMA
-899000 3 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-899000 3 [INFO: Main      ] - 802.15.4 Default channel: 26
-899000 3 [INFO: Main      ] Node ID: 3
-899000 3 [INFO: Main      ] Link-layer address: 0003.0003.0003.0003
-899000 3 [INFO: Main      ] Tentative link-local IPv6 address: fe80::203:3:3:3
-899000 3 AS 3: Started.
-906000 21 [INFO: Main      ] Starting Contiki-NG-23e51c4
-906000 21 [INFO: Main      ] - Routing: RPL Lite
-906000 21 [INFO: Main      ] - Net: sicslowpan
-906000 21 [INFO: Main      ] - MAC: CSMA
-906000 21 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-906000 21 [INFO: Main      ] - 802.15.4 Default channel: 26
-906000 21 [INFO: Main      ] Node ID: 21
-906000 21 [INFO: Main      ] Link-layer address: 0015.0015.0015.0015
-906000 21 [INFO: Main      ] Tentative link-local IPv6 address: fe80::215:15:15:15
-906000 21 AS 21: Started.
-945000 23 [INFO: Main      ] Starting Contiki-NG-23e51c4
-945000 23 [INFO: Main      ] - Routing: RPL Lite
-945000 23 [INFO: Main      ] - Net: sicslowpan
-945000 23 [INFO: Main      ] - MAC: CSMA
-945000 23 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-945000 23 [INFO: Main      ] - 802.15.4 Default channel: 26
-945000 23 [INFO: Main      ] Node ID: 23
-945000 23 [INFO: Main      ] Link-layer address: 0017.0017.0017.0017
-945000 23 [INFO: Main      ] Tentative link-local IPv6 address: fe80::217:17:17:17
-945000 23 AS 23: Started.
-965000 100 [INFO: Main      ] Starting Contiki-NG-23e51c4
-965000 100 [INFO: Main      ] - Routing: RPL Lite
-965000 100 [INFO: Main      ] - Net: sicslowpan
-965000 100 [INFO: Main      ] - MAC: CSMA
-965000 100 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-965000 100 [INFO: Main      ] - 802.15.4 Default channel: 26
-965000 100 [INFO: Main      ] Node ID: 100
-965000 100 [INFO: Main      ] Link-layer address: 0064.0064.0064.0064
-965000 100 [INFO: Main      ] Tentative link-local IPv6 address: fe80::264:64:64:64
-976000 57 [INFO: Main      ] Starting Contiki-NG-23e51c4
-976000 57 [INFO: Main      ] - Routing: RPL Lite
-976000 57 [INFO: Main      ] - Net: sicslowpan
-976000 57 [INFO: Main      ] - MAC: CSMA
-976000 57 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-976000 57 [INFO: Main      ] - 802.15.4 Default channel: 26
-976000 57 [INFO: Main      ] Node ID: 57
-976000 57 [INFO: Main      ] Link-layer address: 0039.0039.0039.0039
-976000 57 [INFO: Main      ] Tentative link-local IPv6 address: fe80::239:39:39:39
-976000 57 AS 57: Started.
-978000 32 [INFO: Main      ] Starting Contiki-NG-23e51c4
-978000 32 [INFO: Main      ] - Routing: RPL Lite
-978000 32 [INFO: Main      ] - Net: sicslowpan
-978000 32 [INFO: Main      ] - MAC: CSMA
-978000 32 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-978000 32 [INFO: Main      ] - 802.15.4 Default channel: 26
-978000 32 [INFO: Main      ] Node ID: 32
-978000 32 [INFO: Main      ] Link-layer address: 0020.0020.0020.0020
-978000 32 [INFO: Main      ] Tentative link-local IPv6 address: fe80::220:20:20:20
-978000 32 AS 32: Started.
-984000 91 [INFO: Main      ] Starting Contiki-NG-23e51c4
-984000 91 [INFO: Main      ] - Routing: RPL Lite
-984000 91 [INFO: Main      ] - Net: sicslowpan
-984000 91 [INFO: Main      ] - MAC: CSMA
-984000 91 [INFO: Main      ] - 802.15.4 PANID: 0xabcd
-984000 91 [INFO: Main      ] - 802.15.4 Default channel: 26
-984000 91 [INFO: Main      ] Node ID: 91
-984000 91 [INFO: Main      ] Link-layer address: 005b.005b.005b.005b
-984000 91 [INFO: Main      ] Tentative link-local IPv6 address: fe80::25b:5b:5b:5b
-86251000 81 Node 81: Sending Reg-0
-86284592 2 AS 2: Reg-0 for device 81 (c_d=23)
-86366584 81 Node 81: Reg-0 OK. c_d=23
-86366584 81 Node 81: Sending Reg-1
-86425648 2 AS 2: Reg-1 complete for device 81
-86485368 81 Node 81: Registered
-87710000 82 Node 82: Sending Reg-0
-87760592 2 AS 2: Reg-0 for device 82 (c_d=207)
-87831584 82 Node 82: Reg-0 OK. c_d=207
-87831584 82 Node 82: Sending Reg-1
-87911552 2 AS 2: Reg-1 complete for device 82
-87984368 82 Node 82: Registered
-88843000 83 Node 83: Sending Reg-0
-88926592 2 AS 2: Reg-0 for device 83 (c_d=215)
-89018584 83 Node 83: Reg-0 OK. c_d=215
-89018584 83 Node 83: Sending Reg-1
-89121648 2 AS 2: Reg-1 complete for device 83
-89203368 83 Node 83: Registered
-89874000 84 Node 84: Sending Reg-0
-89989592 2 AS 2: Reg-0 for device 84 (c_d=166)
-90062000 85 Node 85: Sending Reg-0
-90099584 84 Node 84: Reg-0 OK. c_d=166
-90099584 84 Node 84: Sending Reg-1
-90140592 2 AS 2: Reg-0 for device 85 (c_d=34)
-90240584 85 Node 85: Reg-0 OK. c_d=34
-90240584 85 Node 85: Sending Reg-1
-90327552 2 AS 2: Reg-1 complete for device 84
-90349648 2 AS 2: Reg-1 complete for device 85
-90421736 84 Node 84: Registered
-90428104 85 Node 85: Registered
-91264000 86 Node 86: Sending Reg-0
-91301592 2 AS 2: Reg-0 for device 86 (c_d=239)
-91393584 86 Node 86: Reg-0 OK. c_d=239
-91393584 86 Node 86: Sending Reg-1
-91449648 2 AS 2: Reg-1 complete for device 86
-91495368 86 Node 86: Registered
-92779000 87 Node 87: Sending Reg-0
-92848592 2 AS 2: Reg-0 for device 87 (c_d=221)
-92947584 87 Node 87: Reg-0 OK. c_d=221
-92947584 87 Node 87: Sending Reg-1
-93047648 2 AS 2: Reg-1 complete for device 87
-93129368 87 Node 87: Registered
-93216000 88 Node 88: Sending Reg-0
-93347592 2 AS 2: Reg-0 for device 88 (c_d=179)
-93453840 88 Node 88: Reg-0 OK. c_d=179
-93453840 88 Node 88: Sending Reg-1
-93543648 2 AS 2: Reg-1 complete for device 88
-93636624 88 Node 88: Registered
-94197000 89 Node 89: Sending Reg-0
-94326592 2 AS 2: Reg-0 for device 89 (c_d=218)
-94427840 89 Node 89: Reg-0 OK. c_d=218
-94427840 89 Node 89: Sending Reg-1
-94581648 2 AS 2: Reg-1 complete for device 89
-94680624 89 Node 89: Registered
-95767000 90 Node 90: Sending Reg-0
-95900592 2 AS 2: Reg-0 for device 90 (c_d=69)
-95990840 90 Node 90: Reg-0 OK. c_d=69
-95990840 90 Node 90: Sending Reg-1
-96075552 2 AS 2: Reg-1 complete for device 90
-96227624 90 Node 90: Registered
-96984000 91 Node 91: Sending Reg-0
-97062592 2 AS 2: Reg-0 for device 91 (c_d=163)
-97141584 91 Node 91: Reg-0 OK. c_d=163
-97141584 91 Node 91: Sending Reg-1
-97209648 2 AS 2: Reg-1 complete for device 91
-97298368 91 Node 91: Registered
-97830000 92 Node 92: Sending Reg-0
-97893592 2 AS 2: Reg-0 for device 92 (c_d=225)
-97984584 92 Node 92: Reg-0 OK. c_d=225
-97984584 92 Node 92: Sending Reg-1
-98065648 2 AS 2: Reg-1 complete for device 92
-98144368 92 Node 92: Registered
-98610000 93 Node 93: Sending Reg-0
-98680592 2 AS 2: Reg-0 for device 93 (c_d=149)
-98754168 93 Node 93: Reg-0 OK. c_d=149
-98754168 93 Node 93: Sending Reg-1
-98847648 2 AS 2: Reg-1 complete for device 93
-98896736 93 Node 93: Registered
-99116000 94 Node 94: Sending Reg-0
-99189592 2 AS 2: Reg-0 for device 94 (c_d=80)
-99275584 94 Node 94: Reg-0 OK. c_d=80
-99275584 94 Node 94: Sending Reg-1
-99377648 2 AS 2: Reg-1 complete for device 94
-99444368 94 Node 94: Registered
-100182000 95 Node 95: Sending Reg-0
-100317592 2 AS 2: Reg-0 for device 95 (c_d=170)
-100408840 95 Node 95: Reg-0 OK. c_d=170
-100408840 95 Node 95: Sending Reg-1
-100623648 2 AS 2: Reg-1 complete for device 95
-100766624 95 Node 95: Registered
-101311000 96 Node 96: Sending Reg-0
-101402592 2 AS 2: Reg-0 for device 96 (c_d=105)
-101533840 96 Node 96: Reg-0 OK. c_d=105
-101533840 96 Node 96: Sending Reg-1
-101639648 2 AS 2: Reg-1 complete for device 96
-101742624 96 Node 96: Registered
-102806000 97 Node 97: Sending Reg-0
-102872440 2 AS 2: Reg-0 for device 97 (c_d=33)
-102959840 97 Node 97: Reg-0 OK. c_d=33
-102959840 97 Node 97: Sending Reg-1
-103072648 2 AS 2: Reg-1 complete for device 97
-103128000 98 Node 98: Sending Reg-0
-103138624 97 Node 97: Registered
-103250592 2 AS 2: Reg-0 for device 98 (c_d=153)
-103376840 98 Node 98: Reg-0 OK. c_d=153
-103376840 98 Node 98: Sending Reg-1
-103501648 2 AS 2: Reg-1 complete for device 98
-103607624 98 Node 98: Registered
-104501000 99 Node 99: Sending Reg-0
-104606592 2 AS 2: Reg-0 for device 99 (c_d=142)
-104761840 99 Node 99: Reg-0 OK. c_d=142
-104761840 99 Node 99: Sending Reg-1
-104839648 2 AS 2: Reg-1 complete for device 99
-104966624 99 Node 99: Registered
-105965000 100 Node 100: Sending Reg-0
-106067440 2 AS 2: Reg-0 for device 100 (c_d=103)
-106128680 100 Node 100: Reg-0 OK. c_d=103
-106128680 100 Node 100: Sending Reg-1
-106202648 2 AS 2: Reg-1 complete for device 100
-106329624 100 Node 100: Registered
-172251000 81 Node 81: Sending auth. PID=de3b7f ts_1=1
-172435184 2 AS 2: Device 81 authenticated (membership check passed)
-172435184 2 
-172493632 1 GW: Auth token for device 81 (via AS 2). PID: b6239f... stored.
-172493632 1 GW: Token processing time: 0 ms
-172597136 81 Node 81: Auth OK. New PID=b6239f
-172597136 81 Node 81: Sending data
-172650648 1 GW: Decrypted data [9] from PID b6239f... (device 81)
-172650648 1 GW: Data processing time: 0 ms
-172669872 81 Node 81: Data confirmed
-172669872 81 
-174710000 82 Node 82: Sending auth. PID=b16eb3 ts_1=1
-174822248 2  The CPU time and energy at the end of authentication for server 2 are 172.199184 and 10.640669AS 2: Device 82 authenticated (membership check passed)
-174822248 2 
-174876632 1 GW: Auth token for device 82 (via AS 2). PID: 80868a... stored.
-174876632 1 GW: Token processing time: 0 ms
-174995136 82 Node 82: Auth OK. New PID=80868a
-174995136 82 Node 82: Sending data
-175078648 1 GW: Decrypted data [9] from PID 80868a... (device 82)
-175078648 1 GW: Data processing time: 0 ms
-175142080 82 Node 82: Data confirmed
-175142080 82 
-176843000 83 Node 83: Sending auth. PID=2f8cc7 ts_1=1
-177017184 2  The CPU time and energy at the end of authentication for server 2 are 174.586248 and 10.788117AS 2: Device 83 authenticated (membership check passed)
-177017184 2 
-177089272 83 Node 83: Auth OK. New PID=81746c
-177089272 83 Node 83: Sending data
-177120632 1 GW: Auth token for device 83 (via AS 2). PID: 81746c... stored.
-177120632 1 GW: Token processing time: 0 ms
-177154264 1 GW: Decrypted data [9] from PID 81746c... (device 83)
-177154264 1 GW: Data processing time: 0 ms
-177207080 83 Node 83: Data confirmed
-177207080 83 
-178874000 84 Node 84: Sending auth. PID=4ccef0 ts_1=1
-179060184 2  The CPU time and energy at the end of authentication for server 2 are 176.781184 and 10.923690AS 2: Device 84 authenticated (membership check passed)
-179060184 2 
-179167136 84 Node 84: Auth OK. New PID=6734af
-179167136 84 Node 84: Sending data
-179187632 1 GW: Auth token for device 84 (via AS 2). PID: 6734af... stored.
-179187632 1 GW: Token processing time: 0 ms
-179198648 1 GW: Decrypted data [9] from PID 6734af... (device 84)
-179198648 1 GW: Data processing time: 0 ms
-179219080 84 Node 84: Data confirmed
-179219080 84 
-180062000 85 Node 85: Sending auth. PID=a6fabc ts_1=1
-180211184 2  The CPU time and energy at the end of authentication for server 2 are 178.824184 and 11.049870AS 2: Device 85 authenticated (membership check passed)
-180211184 2 
-180280632 1 GW: Auth token for device 85 (via AS 2). PID: df8099... stored.
-180280632 1 GW: Token processing time: 0 ms
-180302136 85 Node 85: Auth OK. New PID=df8099
-180302136 85 Node 85: Sending data
-180350648 1 GW: Decrypted data [9] from PID df8099... (device 85)
-180350648 1 GW: Data processing time: 0 ms
-180394080 85 Node 85: Data confirmed
-180394080 85 
-182264000 86 Node 86: Sending auth. PID=816e62 ts_1=1
-182382184 2  The CPU time and energy at the end of authentication for server 2 are 179.975184 and 11.120923AS 2: Device 86 authenticated (membership check passed)
-182382184 2 
-182446632 1 GW: Auth token for device 86 (via AS 2). PID: 0ae381... stored.
-182446632 1 GW: Token processing time: 0 ms
-182509136 86 Node 86: Auth OK. New PID=0ae381
-182509136 86 Node 86: Sending data
-182564264 1 GW: Decrypted data [9] from PID 0ae381... (device 86)
-182564264 1 GW: Data processing time: 0 ms
-182620080 86 Node 86: Data confirmed
-182620080 86 
-184779000 87 Node 87: Sending auth. PID=49f575 ts_1=1
-184980184 2  The CPU time and energy at the end of authentication for server 2 are 182.146184 and 11.255013AS 2: Device 87 authenticated (membership check passed)
-184980184 2 
-185102136 87 Node 87: Auth OK. New PID=36ad2a
-185102136 87 Node 87: Sending data
-185112632 1 GW: Auth token for device 87 (via AS 2). PID: 36ad2a... stored.
-185112632 1 GW: Token processing time: 0 ms
-185147648 1 GW: Decrypted data [9] from PID 36ad2a... (device 87)
-185147648 1 GW: Data processing time: 0 ms
-185175080 87 Node 87: Data confirmed
-185175080 87 
-186216000 88 Node 88: Sending auth. PID=897d35 ts_1=1
-186515184 2  The CPU time and energy at the end of authentication for server 2 are 184.744184 and 11.415496AS 2: Device 88 authenticated (membership check passed)
-186515184 2 
-186599632 1 GW: Auth token for device 88 (via AS 2). PID: b074da... stored.
-186599632 1 GW: Token processing time: 0 ms
-186616392 88 Node 88: Auth OK. New PID=b074da
-186616392 88 Node 88: Sending data
-186716648 1 GW: Decrypted data [9] from PID b074da... (device 88)
-186716648 1 GW: Data processing time: 0 ms
-186807336 88 Node 88: Data confirmed
-186807336 88 
-188197000 89 Node 89: Sending auth. PID=426bec ts_1=1
-188452184 2  The CPU time and energy at the end of authentication for server 2 are 186.279184 and 11.510285AS 2: Device 89 authenticated (membership check passed)
-188452184 2 
-188500632 1 GW: Auth token for device 89 (via AS 2). PID: 1bfa32... stored.
-188500632 1 GW: Token processing time: 0 ms
-188558392 89 Node 89: Auth OK. New PID=1bfa32
-188558392 89 Node 89: Sending data
-188624552 1 GW: Decrypted data [9] from PID 1bfa32... (device 89)
-188624552 1 GW: Data processing time: 0 ms
-188698336 89 Node 89: Data confirmed
-188698336 89 
-190767000 90 Node 90: Sending auth. PID=9a732f ts_1=1
-190904184 2  The CPU time and energy at the end of authentication for server 2 are 188.216184 and 11.629901AS 2: Device 90 authenticated (membership check passed)
-190904184 2 
-190974632 1 GW: Auth token for device 90 (via AS 2). PID: bfddfc... stored.
-190974632 1 GW: Token processing time: 0 ms
-190988392 90 Node 90: Auth OK. New PID=bfddfc
-190988392 90 Node 90: Sending data
-191041648 1 GW: Decrypted data [9] from PID bfddfc... (device 90)
-191041648 1 GW: Data processing time: 0 ms
-191089336 90 Node 90: Data confirmed
-191089336 90 
-192984000 91 Node 91: Sending auth. PID=e11a36 ts_1=1
-193132184 2  The CPU time and energy at the end of authentication for server 2 are 190.668184 and 11.781361AS 2: Device 91 authenticated (membership check passed)
-193132184 2 
-193239136 91 Node 91: Auth OK. New PID=be9a75
-193239136 91 Node 91: Sending data
-193248632 1 GW: Auth token for device 91 (via AS 2). PID: be9a75... stored.
-193248632 1 GW: Token processing time: 0 ms
-193308648 1 GW: Decrypted data [9] from PID be9a75... (device 91)
-193308648 1 GW: Data processing time: 0 ms
-193352080 91 Node 91: Data confirmed
-193352080 91 
-194830000 92 Node 92: Sending auth. PID=89cfa6 ts_1=1
-195011184 2  The CPU time and energy at the end of authentication for server 2 are 192.896184 and 11.918978AS 2: Device 92 authenticated (membership check passed)
-195011184 2 
-195064136 92 Node 92: Auth OK. New PID=34abe9
-195064136 92 Node 92: Sending data
-195078304 1 GW: Rejected data ﾀﾔ PID 34abe9... not found
-195134016 92 Node 92: Data confirmed
-195134016 92 
-195136552 1 GW: Auth token for device 92 (via AS 2). PID: 34abe9... stored.
-195136552 1 GW: Token processing time: 0 ms
-196610000 93 Node 93: Sending auth. PID=441c35 ts_1=1
-196779184 2  The CPU time and energy at the end of authentication for server 2 are 194.775184 and 12.035022AS 2: Device 93 authenticated (membership check passed)
-196779184 2 
-196842136 93 Node 93: Auth OK. New PID=b26d17
-196842136 93 Node 93: Sending data
-196852632 1 GW: Auth token for device 93 (via AS 2). PID: b26d17... stored.
-196852632 1 GW: Token processing time: 0 ms
-196879648 1 GW: Decrypted data [9] from PID b26d17... (device 93)
-196879648 1 GW: Data processing time: 0 ms
-196922080 93 Node 93: Data confirmed
-196922080 93 
-198116000 94 Node 94: Sending auth. PID=2a5e27 ts_1=1
-198245184 2  The CPU time and energy at the end of authentication for server 2 are 196.543184 and 12.144170AS 2: Device 94 authenticated (membership check passed)
-198245184 2 
-198325632 1 GW: Token rejected ﾀﾔ stale ts_auth for device 94
-198335136 94 Node 94: Auth OK. New PID=7bdbe0
-198335136 94 Node 94: Sending data
-198426648 1 GW: Rejected data ﾀﾔ PID 7bdbe0... not found
-198449016 94 Node 94: Data confirmed
-198449016 94 
-200182000 95 Node 95: Sending auth. PID=75ef63 ts_1=1
-200383184 2  The CPU time and energy at the end of authentication for server 2 are 198.009184 and 12.234699AS 2: Device 95 authenticated (membership check passed)
-200383184 2 
-200430632 1 GW: Auth token for device 95 (via AS 2). PID: 78c1cb... stored.
-200430632 1 GW: Token processing time: 0 ms
-200477392 95 Node 95: Auth OK. New PID=78c1cb
-200477392 95 Node 95: Sending data
-200590648 1 GW: Decrypted data [9] from PID 78c1cb... (device 95)
-200590648 1 GW: Data processing time: 0 ms
-200634336 95 Node 95: Data confirmed
-200634336 95 
-202311000 96 Node 96: Sending auth. PID=395f1e ts_1=1
-202507184 2  The CPU time and energy at the end of authentication for server 2 are 200.147184 and 12.366749AS 2: Device 96 authenticated (membership check passed)
-202507184 2 
-202592632 1 GW: Auth token for device 96 (via AS 2). PID: b86157... stored.
-202592632 1 GW: Token processing time: 0 ms
-202597392 96 Node 96: Auth OK. New PID=b86157
-202597392 96 Node 96: Sending data
-202682648 1 GW: Decrypted data [9] from PID b86157... (device 96)
-202682648 1 GW: Data processing time: 0 ms
-202756336 96 Node 96: Data confirmed
-202756336 96 
-204806000 97 Node 97: Sending auth. PID=adbe99 ts_1=1
-205034184 2  The CPU time and energy at the end of authentication for server 2 are 202.271184 and 12.497938AS 2: Device 97 authenticated (membership check passed)
-205034184 2 
-205162392 97 Node 97: Auth OK. New PID=cc3b6a
-205162392 97 Node 97: Sending data
-205197632 1 GW: Auth token for device 97 (via AS 2). PID: cc3b6a... stored.
-205197632 1 GW: Token processing time: 0 ms
-205241648 1 GW: Decrypted data [9] from PID cc3b6a... (device 97)
-205241648 1 GW: Data processing time: 0 ms
-205303336 97 Node 97: Data confirmed
-205303336 97 
-206128000 98 Node 98: Sending auth. PID=9eae97 ts_1=1
-206353184 2  The CPU time and energy at the end of authentication for server 2 are 204.798184 and 12.654033AS 2: Device 98 authenticated (membership check passed)
-206353184 2 
-206468632 1 GW: Auth token for device 98 (via AS 2). PID: 825294... stored.
-206468632 1 GW: Token processing time: 0 ms
-206501392 98 Node 98: Auth OK. New PID=825294
-206501392 98 Node 98: Sending data
-206567648 1 GW: Decrypted data [9] from PID 825294... (device 98)
-206567648 1 GW: Data processing time: 0 ms
-206624336 98 Node 98: Data confirmed
-206624336 98 
-208501000 99 Node 99: Sending auth. PID=d8c4d2 ts_1=1
-208744184 2  The CPU time and energy at the end of authentication for server 2 are 206.117184 and 12.735470AS 2: Device 99 authenticated (membership check passed)
-208744184 2 
-208823632 1 GW: Auth token for device 99 (via AS 2). PID: 605e37... stored.
-208823632 1 GW: Token processing time: 0 ms
-208922392 99 Node 99: Auth OK. New PID=605e37
-208922392 99 Node 99: Sending data
-209004648 1 GW: Decrypted data [9] from PID 605e37... (device 99)
-209004648 1 GW: Data processing time: 0 ms
-209091336 99 Node 99: Data confirmed
-209091336 99 
-210965000 100 Node 100: Sending auth. PID=ca2d5d ts_1=1
-211177184 2  The CPU time and energy at the end of authentication for server 2 are 208.508184 and 12.883156AS 2: Device 100 authenticated (membership check passed)
-211177184 2 
-211213632 1 GW: Auth token for device 100 (via AS 2). PID: 39a182... stored.
-211213632 1 GW: Token processing time: 0 ms
-211255392 100 Node 100: Auth OK. New PID=39a182
-211255392 100 Node 100: Sending data
-211342552 1 GW: Decrypted data [9] from PID 39a182... (device 100)
-211342552 1 GW: Data processing time: 0 ms
-211402336 100 Node 100: Data confirmed
-211402336 100 
-258302648 1 GW: Decrypted data [9] from PID b6239f... (device 81)
-258302648 1 GW: Data processing time: 0 ms
-258382080 81  The CPU time and energy at the end of authentication 1 for client 81 are 0.418872 and 0.025816Node 81: Data confirmed
-261793648 1 GW: Decrypted data [9] from PID 80868a... (device 82)
-261793648 1 GW: Data processing time: 0 ms
-261834080 82  The CPU time and energy at the end of authentication 1 for client 82 are 0.432080 and 0.026586Node 82: Data confirmed
-264879648 1 GW: Decrypted data [9] from PID 81746c... (device 83)
-264879648 1 GW: Data processing time: 0 ms
-264900080 83  The CPU time and energy at the end of authentication 1 for client 83 are 0.364080 and 0.022407Node 83: Data confirmed
-267940648 1 GW: Decrypted data [9] from PID 6734af... (device 84)
-267940648 1 GW: Data processing time: 0 ms
-268027080 84  The CPU time and energy at the end of authentication 1 for client 84 are 0.345080 and 0.021256Node 84: Data confirmed
-270080264 1 GW: Decrypted data [9] from PID df8099... (device 85)
-270080264 1 GW: Data processing time: 0 ms
-270107080 85  The CPU time and energy at the end of authentication 1 for client 85 are 0.332080 and 0.020452Node 85: Data confirmed
-273303648 1 GW: Decrypted data [9] from PID 0ae381... (device 86)
-273303648 1 GW: Data processing time: 0 ms
-273320080 86  The CPU time and energy at the end of authentication 1 for client 86 are 0.356080 and 0.021935Node 86: Data confirmed
-276836648 1 GW: Decrypted data [9] from PID 36ad2a... (device 87)
-276836648 1 GW: Data processing time: 0 ms
-276909080 87  The CPU time and energy at the end of authentication 1 for client 87 are 0.396080 and 0.024407Node 87: Data confirmed
-279299648 1 GW: Decrypted data [9] from PID b074da... (device 88)
-279299648 1 GW: Data processing time: 0 ms
-279350336 88  The CPU time and energy at the end of authentication 1 for client 88 are 0.591336 and 0.036474Node 88: Data confirmed
-282241648 1 GW: Decrypted data [9] from PID 1bfa32... (device 89)
-282241648 1 GW: Data processing time: 0 ms
-282276336 89  The CPU time and energy at the end of authentication 1 for client 89 are 0.501336 and 0.030912Node 89: Data confirmed
-285881648 1 GW: Decrypted data [9] from PID bfddfc... (device 90)
-285881648 1 GW: Data processing time: 0 ms
-285985336 90  The CPU time and energy at the end of authentication 1 for client 90 are 0.322336 and 0.019850Node 90: Data confirmed
-289046648 1 GW: Decrypted data [9] from PID be9a75... (device 91)
-289046648 1 GW: Data processing time: 0 ms
-289114080 91  The CPU time and energy at the end of authentication 1 for client 91 are 0.368080 and 0.022654Node 91: Data confirmed
-291871648 1 GW: Decrypted data [9] from PID 34abe9... (device 92)
-291871648 1 GW: Data processing time: 0 ms
-291900080 92  The CPU time and energy at the end of authentication 1 for client 92 are 0.304016 and 0.018718Node 92: Data confirmed
-294653648 1 GW: Decrypted data [9] from PID b26d17... (device 93)
-294653648 1 GW: Data processing time: 0 ms
-294729080 93  The CPU time and energy at the end of authentication 1 for client 93 are 0.312080 and 0.019216Node 93: Data confirmed
-297161648 1 GW: Rejected data ﾀﾔ PID 7bdbe0... not found
-297211016 94  The CPU time and energy at the end of authentication 1 for client 94 are 0.333016 and 0.020510Node 94: Data confirmed
-300228648 1 GW: Decrypted data [9] from PID 78c1cb... (device 95)
-300228648 1 GW: Data processing time: 0 ms
-300316336 95  The CPU time and energy at the end of authentication 1 for client 95 are 0.452336 and 0.027884Node 95: Data confirmed
-303402648 1 GW: Decrypted data [9] from PID b86157... (device 96)
-303402648 1 GW: Data processing time: 0 ms
-303479336 96  The CPU time and energy at the end of authentication 1 for client 96 are 0.445336 and 0.027451Node 96: Data confirmed
-306855552 1 GW: Decrypted data [9] from PID cc3b6a... (device 97)
-306855552 1 GW: Data processing time: 0 ms
-306908336 97  The CPU time and energy at the end of authentication 1 for client 97 are 0.497336 and 0.030665Node 97: Data confirmed
-309220648 1 GW: Decrypted data [9] from PID 825294... (device 98)
-309220648 1 GW: Data processing time: 0 ms
-309342336 98  The CPU time and energy at the end of authentication 1 for client 98 are 0.496336 and 0.030603Node 98: Data confirmed
-312573648 1 GW: Decrypted data [9] from PID 605e37... (device 99)
-312573648 1 GW: Data processing time: 0 ms
-312628336 99  The CPU time and energy at the end of authentication 1 for client 99 are 0.590336 and 0.036412Node 99: Data confirmed
-316042648 1 GW: Decrypted data [9] from PID 39a182... (device 100)
-316042648 1 GW: Data processing time: 0 ms
-316104336 100  The CPU time and energy at the end of authentication 1 for client 100 are 0.437336 and 0.026957Node 100: Data confirmed
-344296648 1 GW: Decrypted data [9] from PID b6239f... (device 81)
-344296648 1 GW: Data processing time: 0 ms
-344319080 81 Node 81: Data confirmed
-348758648 1 GW: Decrypted data [9] from PID 80868a... (device 82)
-348758648 1 GW: Data processing time: 0 ms
-348831080 82 Node 82: Data confirmed
-352914648 1 GW: Decrypted data [9] from PID 81746c... (device 83)
-352914648 1 GW: Data processing time: 0 ms
-352994080 83 Node 83: Data confirmed
-356891264 1 GW: Decrypted data [9] from PID 6734af... (device 84)
-356891264 1 GW: Data processing time: 0 ms
-356956080 84 Node 84: Data confirmed
-360112648 1 GW: Decrypted data [9] from PID df8099... (device 85)
-360112648 1 GW: Data processing time: 0 ms
-360142080 85 Node 85: Data confirmed
-364337648 1 GW: Decrypted data [9] from PID 0ae381... (device 86)
-364337648 1 GW: Data processing time: 0 ms
-364383080 86 Node 86: Data confirmed
-368816648 1 GW: Decrypted data [9] from PID 36ad2a... (device 87)
-368816648 1 GW: Data processing time: 0 ms
-368874080 87 Node 87: Data confirmed
-372304648 1 GW: Decrypted data [9] from PID b074da... (device 88)
-372304648 1 GW: Data processing time: 0 ms
-372394336 88 Node 88: Data confirmed
-376267648 1 GW: Decrypted data [9] from PID 1bfa32... (device 89)
-376267648 1 GW: Data processing time: 0 ms
-376320336 89 Node 89: Data confirmed
-380868648 1 GW: Decrypted data [9] from PID bfddfc... (device 90)
-380868648 1 GW: Data processing time: 0 ms
-380908336 90 Node 90: Data confirmed
-385029648 1 GW: Decrypted data [9] from PID be9a75... (device 91)
-385029648 1 GW: Data processing time: 0 ms
-385107080 91 Node 91: Data confirmed
-388885648 1 GW: Decrypted data [9] from PID 34abe9... (device 92)
-388885648 1 GW: Data processing time: 0 ms
-388953080 92 Node 92: Data confirmed
-392629648 1 GW: Decrypted data [9] from PID b26d17... (device 93)
-392629648 1 GW: Data processing time: 0 ms
-392701080 93 Node 93: Data confirmed
-396161648 1 GW: Rejected data ﾀﾔ PID 7bdbe0... not found
-396187016 94 Node 94: Data confirmed
-400261648 1 GW: Decrypted data [9] from PID 78c1cb... (device 95)
-400261648 1 GW: Data processing time: 0 ms
-400299336 95 Node 95: Data confirmed
-404405648 1 GW: Decrypted data [9] from PID b86157... (device 96)
-404405648 1 GW: Data processing time: 0 ms
-404498336 96 Node 96: Data confirmed
-408879648 1 GW: Decrypted data [9] from PID cc3b6a... (device 97)
-408879648 1 GW: Data processing time: 0 ms
-408947336 97 Node 97: Data confirmed
-412190648 1 GW: Decrypted data [9] from PID 825294... (device 98)
-412190648 1 GW: Data processing time: 0 ms
-412286336 98 Node 98: Data confirmed
-416541648 1 GW: Decrypted data [9] from PID 605e37... (device 99)
-416541648 1 GW: Data processing time: 0 ms
-416620336 99 Node 99: Data confirmed
-421083648 1 GW: Decrypted data [9] from PID 39a182... (device 100)
-421083648 1 GW: Data processing time: 0 ms
-421152336 100 Node 100: Data confirmed
-430320648 1 GW: Decrypted data [9] from PID b6239f... (device 81)
-430320648 1 GW: Data processing time: 0 ms
-430378080 81 Node 81: Data confirmed
-435748648 1 GW: Decrypted data [9] from PID 80868a... (device 82)
-435748648 1 GW: Data processing time: 0 ms
-435768080 82 Node 82: Data confirmed
-440905648 1 GW: Decrypted data [9] from PID 81746c... (device 83)
-440905648 1 GW: Data processing time: 0 ms
-440981080 83 Node 83: Data confirmed
-445921648 1 GW: Decrypted data [9] from PID 6734af... (device 84)
-445921648 1 GW: Data processing time: 0 ms
-445955080 84 Node 84: Data confirmed
-450106648 1 GW: Decrypted data [9] from PID df8099... (device 85)
-450106648 1 GW: Data processing time: 0 ms
-450166080 85 Node 85: Data confirmed
-455300648 1 GW: Decrypted data [9] from PID 0ae381... (device 86)
-455300648 1 GW: Data processing time: 0 ms
-455341080 86 Node 86: Data confirmed
-460848648 1 GW: Decrypted data [9] from PID 36ad2a... (device 87)
-460848648 1 GW: Data processing time: 0 ms
-460874080 87 Node 87: Data confirmed
-465280648 1 GW: Decrypted data [9] from PID b074da... (device 88)
-465280648 1 GW: Data processing time: 0 ms
-465350336 88 Node 88: Data confirmed
-470270648 1 GW: Decrypted data [9] from PID 1bfa32... (device 89)
-470270648 1 GW: Data processing time: 0 ms
-470339336 89 Node 89: Data confirmed
-475861648 1 GW: Decrypted data [9] from PID bfddfc... (device 90)
-475861648 1 GW: Data processing time: 0 ms
-475940336 90 Node 90: Data confirmed
-481022648 1 GW: Decrypted data [9] from PID be9a75... (device 91)
-481022648 1 GW: Data processing time: 0 ms
-481047872 91 Node 91: Data confirmed
-485880648 1 GW: Decrypted data [9] from PID 34abe9... (device 92)
-485880648 1 GW: Data processing time: 0 ms
-485938080 92 Node 92: Data confirmed
-490636648 1 GW: Decrypted data [9] from PID b26d17... (device 93)
-490636648 1 GW: Data processing time: 0 ms
-490681080 93 Node 93: Data confirmed
-495167648 1 GW: Rejected data ﾀﾔ PID 7bdbe0... not found
-495191016 94 Node 94: Data confirmed
-500239552 1 GW: Decrypted data [9] from PID 78c1cb... (device 95)
-500239552 1 GW: Data processing time: 0 ms
-500325336 95 Node 95: Data confirmed
-505395552 1 GW: Decrypted data [9] from PID b86157... (device 96)
-505395552 1 GW: Data processing time: 0 ms
-505460336 96 Node 96: Data confirmed
-510886648 1 GW: Decrypted data [9] from PID cc3b6a... (device 97)
-510886648 1 GW: Data processing time: 0 ms
-510951336 97 Node 97: Data confirmed
-515210648 1 GW: Decrypted data [9] from PID 825294... (device 98)
-515210648 1 GW: Data processing time: 0 ms
-515299336 98 Node 98: Data confirmed
-516334648 1 GW: Decrypted data [9] from PID b6239f... (device 81)
-516334648 1 GW: Data processing time: 0 ms
-516398080 81 Node 81: Data confirmed
-520586648 1 GW: Decrypted data [9] from PID 605e37... (device 99)
-520586648 1 GW: Data processing time: 0 ms
-520660336 99 Node 99: Data confirmed
-522743648 1 GW: Decrypted data [9] from PID 80868a... (device 82)
-522743648 1 GW: Data processing time: 0 ms
-522808080 82 Node 82: Data confirmed
-526025648 1 GW: Decrypted data [9] from PID 39a182... (device 100)
-526025648 1 GW: Data processing time: 0 ms
-526106336 100 Node 100: Data confirmed
-528922648 1 GW: Decrypted data [9] from PID 81746c... (device 83)
-528922648 1 GW: Data processing time: 0 ms
-528986080 83 Node 83: Data confirmed
-534951648 1 GW: Decrypted data [9] from PID 6734af... (device 84)
-534951648 1 GW: Data processing time: 0 ms
-534967080 84 Node 84: Data confirmed
-540079648 1 GW: Decrypted data [9] from PID df8099... (device 85)
-540079648 1 GW: Data processing time: 0 ms
-540138080 85 Node 85: Data confirmed
-546293648 1 GW: Decrypted data [9] from PID 0ae381... (device 86)
-546293648 1 GW: Data processing time: 0 ms
-546369080 86 Node 86: Data confirmed
-552811648 1 GW: Decrypted data [9] from PID 36ad2a... (device 87)
-552811648 1 GW: Data processing time: 0 ms
-552875080 87 Node 87: Data confirmed
-558328648 1 GW: Decrypted data [9] from PID b074da... (device 88)
-558328648 1 GW: Data processing time: 0 ms
-558419336 88 Node 88: Data confirmed
-564271648 1 GW: Decrypted data [9] from PID 1bfa32... (device 89)
-564271648 1 GW: Data processing time: 0 ms
-564349336 89 Node 89: Data confirmed
-570854648 1 GW: Decrypted data [9] from PID bfddfc... (device 90)
-570854648 1 GW: Data processing time: 0 ms
-570935336 90 Node 90: Data confirmed
-577037648 1 GW: Decrypted data [9] from PID be9a75... (device 91)
-577037648 1 GW: Data processing time: 0 ms
-577069080 91 Node 91: Data confirmed
-582900648 1 GW: Decrypted data [9] from PID 34abe9... (device 92)
-582900648 1 GW: Data processing time: 0 ms
-582964080 92 Node 92: Data confirmed
-588693648 1 GW: Decrypted data [9] from PID b26d17... (device 93)
-588693648 1 GW: Data processing time: 0 ms
-588768080 93 Node 93: Data confirmed
-594198648 1 GW: Rejected data ﾀﾔ PID 7bdbe0... not found
-594218016 94 Node 94: Data confirmed
-600250648 1 GW: Decrypted data [9] from PID 78c1cb... (device 95)
-600250648 1 GW: Data processing time: 0 ms
-600312336 95 Node 95: Data confirmed
-602296648 1 GW: Decrypted data [9] from PID b6239f... (device 81)
-602296648 1 GW: Data processing time: 0 ms
-602320080 81 Node 81: Data confirmed
-606413648 1 GW: Decrypted data [9] from PID b86157... (device 96)
-606413648 1 GW: Data processing time: 0 ms
-606461336 96 Node 96: Data confirmed
-609746264 1 GW: Decrypted data [9] from PID 80868a... (device 82)
-609746264 1 GW: Data processing time: 0 ms
-609797080 82 Node 82: Data confirmed
-612910648 1 GW: Decrypted data [9] from PID cc3b6a... (device 97)
-612910648 1 GW: Data processing time: 0 ms
-612986336 97 Node 97: Data confirmed
-616897648 1 GW: Decrypted data [9] from PID 81746c... (device 83)
-616897648 1 GW: Data processing time: 0 ms
-616953080 83 Node 83: Data confirmed
-618206648 1 GW: Decrypted data [9] from PID 825294... (device 98)
-618206648 1 GW: Data processing time: 0 ms
-618313336 98 Node 98: Data confirmed
-623937648 1 GW: Decrypted data [9] from PID 6734af... (device 84)
-623937648 1 GW: Data processing time: 0 ms
-623989080 84 Node 84: Data confirmed
-624576648 1 GW: Decrypted data [9] from PID 605e37... (device 99)
-624576648 1 GW: Data processing time: 0 ms
-624619336 99 Node 99: Data confirmed
-630093648 1 GW: Decrypted data [9] from PID df8099... (device 85)
-630093648 1 GW: Data processing time: 0 ms
-630178080 85 Node 85: Data confirmed
-631043648 1 GW: Decrypted data [9] from PID 39a182... (device 100)
-631043648 1 GW: Data processing time: 0 ms
-631121336 100 Node 100: Data confirmed
-637319648 1 GW: Decrypted data [9] from PID 0ae381... (device 86)
-637319648 1 GW: Data processing time: 0 ms
-637396080 86 Node 86: Data confirmed
-644805648 1 GW: Decrypted data [9] from PID 36ad2a... (device 87)
-644805648 1 GW: Data processing time: 0 ms
-644872080 87 Node 87: Data confirmed
-651323648 1 GW: Decrypted data [9] from PID b074da... (device 88)
-651323648 1 GW: Data processing time: 0 ms
-651410336 88 Node 88: Data confirmed
-658316648 1 GW: Decrypted data [9] from PID 1bfa32... (device 89)
-658316648 1 GW: Data processing time: 0 ms
-658439336 89 Node 89: Data confirmed
-665833648 1 GW: Decrypted data [9] from PID bfddfc... (device 90)
-665833648 1 GW: Data processing time: 0 ms
-665877336 90 Node 90: Data confirmed
-673051648 1 GW: Decrypted data [9] from PID be9a75... (device 91)
-673051648 1 GW: Data processing time: 0 ms
-673156080 91 Node 91: Data confirmed
-679868264 1 GW: Decrypted data [9] from PID 34abe9... (device 92)
-679868264 1 GW: Data processing time: 0 ms
-679932080 92 Node 92: Data confirmed
-686652264 1 GW: Decrypted data [9] from PID b26d17... (device 93)
-686652264 1 GW: Data processing time: 0 ms
-686700080 93 Node 93: Data confirmed
-688313648 1 GW: Decrypted data [9] from PID b6239f... (device 81)
-688313648 1 GW: Data processing time: 0 ms
-688350080 81 Node 81: Data confirmed
-693151264 1 GW: Rejected data ﾀﾔ PID 7bdbe0... not found
-693173744 94 Node 94: Data confirmed
-696745648 1 GW: Decrypted data [9] from PID 80868a... (device 82)
-696745648 1 GW: Data processing time: 0 ms
-696782080 82 Node 82: Data confirmed
-700264648 1 GW: Decrypted data [9] from PID 78c1cb... (device 95)
-700264648 1 GW: Data processing time: 0 ms
-700308672 95 Node 95: Data confirmed
-704887648 1 GW: Decrypted data [9] from PID 81746c... (device 83)
-704887648 1 GW: Data processing time: 0 ms
-704968080 83 Node 83: Data confirmed
-707389648 1 GW: Decrypted data [9] from PID b86157... (device 96)
-707389648 1 GW: Data processing time: 0 ms
-707496336 96 Node 96: Data confirmed
-712929648 1 GW: Decrypted data [9] from PID 6734af... (device 84)
-712929648 1 GW: Data processing time: 0 ms
-712977080 84 Node 84: Data confirmed
-714896648 1 GW: Decrypted data [9] from PID cc3b6a... (device 97)
-714896648 1 GW: Data processing time: 0 ms
-715011336 97 Node 97: Data confirmed
-720124648 1 GW: Decrypted data [9] from PID df8099... (device 85)
-720124648 1 GW: Data processing time: 0 ms
-720164080 85 Node 85: Data confirmed
-721263648 1 GW: Decrypted data [9] from PID 825294... (device 98)
-721263648 1 GW: Data processing time: 0 ms
-721307672 98 Node 98: Data confirmed
-728342648 1 GW: Decrypted data [9] from PID 0ae381... (device 86)
-728342648 1 GW: Data processing time: 0 ms
-728376080 86 Node 86: Data confirmed
-728618648 1 GW: Decrypted data [9] from PID 605e37... (device 99)
-728618648 1 GW: Data processing time: 0 ms
-728700336 99 Node 99: Data confirmed
-736085648 1 GW: Decrypted data [9] from PID 39a182... (device 100)
-736085648 1 GW: Data processing time: 0 ms
-736191336 100 Node 100: Data confirmed
-736844648 1 GW: Decrypted data [9] from PID 36ad2a... (device 87)
-736844648 1 GW: Data processing time: 0 ms
-736893080 87 Node 87: Data confirmed
-744304648 1 GW: Decrypted data [9] from PID b074da... (device 88)
-744304648 1 GW: Data processing time: 0 ms
-744372336 88 Node 88: Data confirmed
-752273648 1 GW: Decrypted data [9] from PID 1bfa32... (device 89)
-752273648 1 GW: Data processing time: 0 ms
-752365336 89 Node 89: Data confirmed
-760846648 1 GW: Decrypted data [9] from PID bfddfc... (device 90)
-760846648 1 GW: Data processing time: 0 ms
-760907336 90 Node 90: Data confirmed
-769013264 1 GW: Decrypted data [9] from PID be9a75... (device 91)
-769013264 1 GW: Data processing time: 0 ms
-769042080 91 Node 91: Data confirmed
-774267264 1 GW: Decrypted data [9] from PID b6239f... (device 81)
-774267264 1 GW: Data processing time: 0 ms
-774321080 81 Node 81: Data confirmed
-776895648 1 GW: Decrypted data [9] from PID 34abe9... (device 92)
-776895648 1 GW: Data processing time: 0 ms
-776951080 92 Node 92: Data confirmed
-783760648 1 GW: Decrypted data [9] from PID 80868a... (device 82)
-783760648 1 GW: Data processing time: 0 ms
-783811080 82 Node 82: Data confirmed
-784671648 1 GW: Decrypted data [9] from PID b26d17... (device 93)
-784671648 1 GW: Data processing time: 0 ms
-784748080 93 Node 93: Data confirmed
-792158648 1 GW: Rejected data ﾀﾔ PID 7bdbe0... not found
-792234016 94 Node 94: Data confirmed
-792885648 1 GW: Decrypted data [9] from PID 81746c... (device 83)
-792885648 1 GW: Data processing time: 0 ms
-792899872 83 Node 83: Data confirmed
-800264648 1 GW: Decrypted data [9] from PID 78c1cb... (device 95)
-800264648 1 GW: Data processing time: 0 ms
-800326336 95 Node 95: Data confirmed
-801926648 1 GW: Decrypted data [9] from PID 6734af... (device 84)
-801926648 1 GW: Data processing time: 0 ms
-801993080 84 Node 84: Data confirmed
-808376648 1 GW: Decrypted data [9] from PID b86157... (device 96)
-808376648 1 GW: Data processing time: 0 ms
-808465672 96 Node 96: Data confirmed
-810113648 1 GW: Decrypted data [9] from PID df8099... (device 85)
-810113648 1 GW: Data processing time: 0 ms
-810190080 85 Node 85: Data confirmed
-816889648 1 GW: Decrypted data [9] from PID cc3b6a... (device 97)
-816889648 1 GW: Data processing time: 0 ms
-817019336 97 Node 97: Data confirmed
-819332648 1 GW: Decrypted data [9] from PID 0ae381... (device 86)
-819332648 1 GW: Data processing time: 0 ms
-819400080 86 Node 86: Data confirmed
-824214648 1 GW: Decrypted data [9] from PID 825294... (device 98)
-824214648 1 GW: Data processing time: 0 ms
-824315336 98 Node 98: Data confirmed
-828829648 1 GW: Decrypted data [9] from PID 36ad2a... (device 87)
-828829648 1 GW: Data processing time: 0 ms
-828879080 87 Node 87: Data confirmed
-832601648 1 GW: Decrypted data [9] from PID 605e37... (device 99)
-832601648 1 GW: Data processing time: 0 ms
-832710336 99 Node 99: Data confirmed
-837334648 1 GW: Decrypted data [9] from PID b074da... (device 88)
-837334648 1 GW: Data processing time: 0 ms
-837423336 88 Node 88: Data confirmed
-841028648 1 GW: Decrypted data [9] from PID 39a182... (device 100)
-841028648 1 GW: Data processing time: 0 ms
-841149336 100 Node 100: Data confirmed
-846278648 1 GW: Decrypted data [9] from PID 1bfa32... (device 89)
-846278648 1 GW: Data processing time: 0 ms
-846353336 89 Node 89: Data confirmed
-855859648 1 GW: Decrypted data [9] from PID bfddfc... (device 90)
-855859648 1 GW: Data processing time: 0 ms
-855976336 90 Node 90: Data confirmed
-860300648 1 GW: Decrypted data [9] from PID b6239f... (device 81)
-860300648 1 GW: Data processing time: 0 ms
-860328080 81 Node 81: Data confirmed
-865028648 1 GW: Decrypted data [9] from PID be9a75... (device 91)
-865028648 1 GW: Data processing time: 0 ms
-865078080 91 Node 91: Data confirmed
-870769648 1 GW: Decrypted data [9] from PID 80868a... (device 82)
-870769648 1 GW: Data processing time: 0 ms
-870839080 82 Node 82: Data confirmed
-873882648 1 GW: Decrypted data [9] from PID 34abe9... (device 92)
-873882648 1 GW: Data processing time: 0 ms
-873960080 92 Node 92: Data confirmed
-880927648 1 GW: Decrypted data [9] from PID 81746c... (device 83)
-880927648 1 GW: Data processing time: 0 ms
-880982080 83 Node 83: Data confirmed
-882638648 1 GW: Decrypted data [9] from PID b26d17... (device 93)
-882638648 1 GW: Data processing time: 0 ms
-882680080 93 Node 93: Data confirmed
-890897648 1 GW: Decrypted data [9] from PID 6734af... (device 84)
-890897648 1 GW: Data processing time: 0 ms
-890951080 84 Node 84: Data confirmed
-891193648 1 GW: Rejected data ﾀﾔ PID 7bdbe0... not found
-891275016 94 Node 94: Data confirmed
-900098264 1 GW: Decrypted data [9] from PID df8099... (device 85)
-900098264 1 GW: Data processing time: 0 ms
-900155080 85 Node 85: Data confirmed
-900311648 1 GW: Decrypted data [9] from PID 78c1cb... (device 95)
-900311648 1 GW: Data processing time: 0 ms
-900409336 95 Node 95: Data confirmed
-909387648 1 GW: Decrypted data [9] from PID b86157... (device 96)
-909387648 1 GW: Data processing time: 0 ms
-909462336 96 Node 96: Data confirmed
-910306648 1 GW: Decrypted data [9] from PID 0ae381... (device 86)
-910306648 1 GW: Data processing time: 0 ms
-910379080 86 Node 86: Data confirmed
-918883648 1 GW: Decrypted data [9] from PID cc3b6a... (device 97)
-918883648 1 GW: Data processing time: 0 ms
-918946336 97 Node 97: Data confirmed
-920819648 1 GW: Decrypted data [9] from PID 36ad2a... (device 87)
-920819648 1 GW: Data processing time: 0 ms
-920858080 87 Node 87: Data confirmed
-927222648 1 GW: Decrypted data [9] from PID 825294... (device 98)
-927222648 1 GW: Data processing time: 0 ms
-927300336 98 Node 98: Data confirmed
-930262552 1 GW: Decrypted data [9] from PID b074da... (device 88)
-930262552 1 GW: Data processing time: 0 ms
-930363336 88 Node 88: Data confirmed
-936581648 1 GW: Decrypted data [9] from PID 605e37... (device 99)
-936581648 1 GW: Data processing time: 0 ms
-936637336 99 Node 99: Data confirmed
-940290648 1 GW: Decrypted data [9] from PID 1bfa32... (device 89)
-940290648 1 GW: Data processing time: 0 ms
-940352336 89 Node 89: Data confirmed
-946054648 1 GW: Decrypted data [9] from PID 39a182... (device 100)
-946054648 1 GW: Data processing time: 0 ms
-946158336 100 Node 100: Data confirmed
-946337648 1 GW: Decrypted data [9] from PID b6239f... (device 81)
-946337648 1 GW: Data processing time: 0 ms
-946382080 81 Node 81: Data confirmed
-950819648 1 GW: Decrypted data [9] from PID bfddfc... (device 90)
-950819648 1 GW: Data processing time: 0 ms
-950913336 90 Node 90: Data confirmed
-957762648 1 GW: Decrypted data [9] from PID 80868a... (device 82)
-957762648 1 GW: Data processing time: 0 ms
-957789080 82 Node 82: Data confirmed
-961040648 1 GW: Decrypted data [9] from PID be9a75... (device 91)
-961040648 1 GW: Data processing time: 0 ms
-961108080 91 Node 91: Data confirmed
-968907648 1 GW: Decrypted data [9] from PID 81746c... (device 83)
-968907648 1 GW: Data processing time: 0 ms
-968968080 83 Node 83: Data confirmed
-970896648 1 GW: Decrypted data [9] from PID 34abe9... (device 92)
-970896648 1 GW: Data processing time: 0 ms
-970935080 92 Node 92: Data confirmed
-979902648 1 GW: Decrypted data [9] from PID 6734af... (device 84)
-979902648 1 GW: Data processing time: 0 ms
-979958080 84 Node 84: Data confirmed
-980695648 1 GW: Decrypted data [9] from PID b26d17... (device 93)
-980695648 1 GW: Data processing time: 0 ms
-980764080 93 Node 93: Data confirmed
-990141648 1 GW: Decrypted data [9] from PID df8099... (device 85)
-990141648 1 GW: Data processing time: 0 ms
-990190648 1 GW: Rejected data ﾀﾔ PID 7bdbe0... not found
-990206080 85 Node 85: Data confirmed
-990251016 94 Node 94: Data confirmed
-1000240648 1 GW: Decrypted data [9] from PID 78c1cb... (device 95)
-1000240648 1 GW: Data processing time: 0 ms
-1000320336 95 Node 95: Data confirmed
-1001313648 1 GW: Decrypted data [9] from PID 0ae381... (device 86)
-1001313648 1 GW: Data processing time: 0 ms
-1001356080 86 Node 86: Data confirmed
-1010392648 1 GW: Decrypted data [9] from PID b86157... (device 96)
-1010392648 1 GW: Data processing time: 0 ms
-1010473336 96 Node 96: Data confirmed
-1012831648 1 GW: Decrypted data [9] from PID 36ad2a... (device 87)
-1012831648 1 GW: Data processing time: 0 ms
-1012900080 87 Node 87: Data confirmed
-1020896648 1 GW: Decrypted data [9] from PID cc3b6a... (device 97)
-1020896648 1 GW: Data processing time: 0 ms
-1020986336 97 Node 97: Data confirmed
-1023313648 1 GW: Decrypted data [9] from PID b074da... (device 88)
-1023313648 1 GW: Data processing time: 0 ms
-1023416336 88 Node 88: Data confirmed
-1030202648 1 GW: Decrypted data [9] from PID 825294... (device 98)
-1030202648 1 GW: Data processing time: 0 ms
-1030328336 98 Node 98: Data confirmed
-1032315648 1 GW: Decrypted data [9] from PID b6239f... (device 81)
-1032315648 1 GW: Data processing time: 0 ms
-1032392080 81 Node 81: Data confirmed
-1034274648 1 GW: Decrypted data [9] from PID 1bfa32... (device 89)
-1034274648 1 GW: Data processing time: 0 ms
-1034340336 89 Node 89: Data confirmed
-1040574648 1 GW: Decrypted data [9] from PID 605e37... (device 99)
-1040574648 1 GW: Data processing time: 0 ms
-1040621336 99 Node 99: Data confirmed
-1044760648 1 GW: Decrypted data [9] from PID 80868a... (device 82)
-1044760648 1 GW: Data processing time: 0 ms
-1044810080 82 Node 82: Data confirmed
-1045824648 1 GW: Decrypted data [9] from PID bfddfc... (device 90)
-1045824648 1 GW: Data processing time: 0 ms
-1045926336 90 Node 90: Data confirmed
-1051078648 1 GW: Decrypted data [9] from PID 39a182... (device 100)
-1051078648 1 GW: Data processing time: 0 ms
-1051147336 100 Node 100: Data confirmed
-1056898648 1 GW: Decrypted data [9] from PID 81746c... (device 83)
-1056898648 1 GW: Data processing time: 0 ms
-1056931872 83 Node 83: Data confirmed
-1057010648 1 GW: Decrypted data [9] from PID be9a75... (device 91)
-1057010648 1 GW: Data processing time: 0 ms
-1057085080 91 Node 91: Data confirmed
-1067910648 1 GW: Decrypted data [9] from PID 34abe9... (device 92)
-1067910648 1 GW: Data processing time: 0 ms
-1067960080 92 Node 92: Data confirmed
-1068903648 1 GW: Decrypted data [9] from PID 6734af... (device 84)
-1068903648 1 GW: Data processing time: 0 ms
-1068992080 84 Node 84: Data confirmed
-1078646264 1 GW: Decrypted data [9] from PID b26d17... (device 93)
-1078646264 1 GW: Data processing time: 0 ms
-1078688080 93 Node 93: Data confirmed
-1080145648 1 GW: Decrypted data [9] from PID df8099... (device 85)
-1080145648 1 GW: Data processing time: 0 ms
-1080190080 85 Node 85: Data confirmed
-1089167648 1 GW: Rejected data ﾀﾔ PID 7bdbe0... not found
-1089217016 94 Node 94: Data confirmed
-1092312648 1 GW: Decrypted data [9] from PID 0ae381... (device 86)
-1092312648 1 GW: Data processing time: 0 ms
-1092379080 86 Node 86: Data confirmed
-1100229552 1 GW: Decrypted data [9] from PID 78c1cb... (device 95)
-1100229552 1 GW: Data processing time: 0 ms
-1100310336 95 Node 95: Data confirmed
-1104812648 1 GW: Decrypted data [9] from PID 36ad2a... (device 87)
-1104812648 1 GW: Data processing time: 0 ms
-1104844080 87 Node 87: Data confirmed
-1111412648 1 GW: Decrypted data [9] from PID b86157... (device 96)
-1111412648 1 GW: Data processing time: 0 ms
-1111482336 96 Node 96: Data confirmed
-1116334648 1 GW: Decrypted data [9] from PID b074da... (device 88)
-1116334648 1 GW: Data processing time: 0 ms
-1116398336 88 Node 88: Data confirmed
-1118302648 1 GW: Decrypted data [9] from PID b6239f... (device 81)
-1118302648 1 GW: Data processing time: 0 ms
-1118345080 81 Node 81: Data confirmed
-1122873648 1 GW: Decrypted data [9] from PID cc3b6a... (device 97)
-1122873648 1 GW: Data processing time: 0 ms
-1122926672 97 Node 97: Data confirmed
-1128261552 1 GW: Decrypted data [9] from PID 1bfa32... (device 89)
-1128261552 1 GW: Data processing time: 0 ms
-1128350336 89 Node 89: Data confirmed
-1131756648 1 GW: Decrypted data [9] from PID 80868a... (device 82)
-1131756648 1 GW: Data processing time: 0 ms
-1131833080 82 Node 82: Data confirmed
-1133176648 1 GW: Decrypted data [9] from PID 825294... (device 98)
-1133176648 1 GW: Data processing time: 0 ms
-1133252336 98 Node 98: Data confirmed
-1140820648 1 GW: Decrypted data [9] from PID bfddfc... (device 90)
-1140820648 1 GW: Data processing time: 0 ms
-1140896336 90 Node 90: Data confirmed
-1144594648 1 GW: Decrypted data [9] from PID 605e37... (device 99)
-1144594648 1 GW: Data processing time: 0 ms
-1144665336 99 Node 99: Data confirmed
-1144919648 1 GW: Decrypted data [9] from PID 81746c... (device 83)
-1144919648 1 GW: Data processing time: 0 ms
-1144976080 83 Node 83: Data confirmed
-1153058648 1 GW: Decrypted data [9] from PID be9a75... (device 91)
-1153058648 1 GW: Data processing time: 0 ms
-1153137080 91 Node 91: Data confirmed
-1156039648 1 GW: Decrypted data [9] from PID 39a182... (device 100)
-1156039648 1 GW: Data processing time: 0 ms
-1156116336 100 Node 100: Data confirmed
-1157927648 1 GW: Decrypted data [9] from PID 6734af... (device 84)
-1157927648 1 GW: Data processing time: 0 ms
-1157998080 84 Node 84: Data confirmed
-1164913648 1 GW: Decrypted data [9] from PID 34abe9... (device 92)
-1164913648 1 GW: Data processing time: 0 ms
-1164942080 92 Node 92: Data confirmed
-1170138648 1 GW: Decrypted data [9] from PID df8099... (device 85)
-1170138648 1 GW: Data processing time: 0 ms
-1170158080 85 Node 85: Data confirmed
-1176675648 1 GW: Decrypted data [9] from PID b26d17... (device 93)
-1176675648 1 GW: Data processing time: 0 ms
-1176758080 93 Node 93: Data confirmed
-1183328648 1 GW: Decrypted data [9] from PID 0ae381... (device 86)
-1183328648 1 GW: Data processing time: 0 ms
-1183352080 86 Node 86: Data confirmed
-1188180648 1 GW: Rejected data ﾀﾔ PID 7bdbe0... not found
-1188233744 94 Node 94: Data confirmed
-1196842648 1 GW: Decrypted data [9] from PID 36ad2a... (device 87)
-1196842648 1 GW: Data processing time: 0 ms
-1196893080 87 Node 87: Data confirmed
-1200259552 1 GW: Decrypted data [9] from PID 78c1cb... (device 95)
-1200259552 1 GW: Data processing time: 0 ms
-1200333336 95 Node 95: Data confirmed
-1204314648 1 GW: Decrypted data [9] from PID b6239f... (device 81)
-1204314648 1 GW: Data processing time: 0 ms
-1204338080 81 Node 81: Data confirmed
-1209307648 1 GW: Decrypted data [9] from PID b074da... (device 88)
-1209307648 1 GW: Data processing time: 0 ms
-1209380336 88 Node 88: Data confirmed
-1212380648 1 GW: Decrypted data [9] from PID b86157... (device 96)
-1212380648 1 GW: Data processing time: 0 ms
-1212451336 96 Node 96: Data confirmed
-1218772648 1 GW: Decrypted data [9] from PID 80868a... (device 82)
-1218772648 1 GW: Data processing time: 0 ms
-1218790080 82 Node 82: Data confirmed
-1222302648 1 GW: Decrypted data [9] from PID 1bfa32... (device 89)
-1222302648 1 GW: Data processing time: 0 ms
-1222366336 89 Node 89: Data confirmed
-1224861648 1 GW: Decrypted data [9] from PID cc3b6a... (device 97)
-1224861648 1 GW: Data processing time: 0 ms
-1224973336 97 Node 97: Data confirmed
-1232898648 1 GW: Decrypted data [9] from PID 81746c... (device 83)
-1232898648 1 GW: Data processing time: 0 ms
-1232931080 83 Node 83: Data confirmed
-1235822648 1 GW: Decrypted data [9] from PID bfddfc... (device 90)
-1235822648 1 GW: Data processing time: 0 ms
-1235901672 90 Node 90: Data confirmed
-1236229648 1 GW: Decrypted data [9] from PID 825294... (device 98)
-1236229648 1 GW: Data processing time: 0 ms
-1236273336 98 Node 98: Data confirmed
-1246923648 1 GW: Decrypted data [9] from PID 6734af... (device 84)
-1246923648 1 GW: Data processing time: 0 ms
-1247002080 84 Node 84: Data confirmed
-1248588648 1 GW: Decrypted data [9] from PID 605e37... (device 99)
-1248588648 1 GW: Data processing time: 0 ms
-1248670336 99 Node 99: Data confirmed
-1249040648 1 GW: Decrypted data [9] from PID be9a75... (device 91)
-1249040648 1 GW: Data processing time: 0 ms
-1249098080 91 Node 91: Data confirmed
-1260108648 1 GW: Decrypted data [9] from PID df8099... (device 85)
-1260108648 1 GW: Data processing time: 0 ms
-1260155080 85 Node 85: Data confirmed
-1261061648 1 GW: Decrypted data [9] from PID 39a182... (device 100)
-1261061648 1 GW: Data processing time: 0 ms
-1261121336 100 Node 100: Data confirmed
-1261884648 1 GW: Decrypted data [9] from PID 34abe9... (device 92)
-1261884648 1 GW: Data processing time: 0 ms
-1261949080 92 Node 92: Data confirmed
-1274299648 1 GW: Decrypted data [9] from PID 0ae381... (device 86)
-1274299648 1 GW: Data processing time: 0 ms
-1274334080 86 Node 86: Data confirmed
-1274656648 1 GW: Decrypted data [9] from PID b26d17... (device 93)
-1274656648 1 GW: Data processing time: 0 ms
-1274716080 93 Node 93: Data confirmed
-1287189648 1 GW: Rejected data ﾀﾔ PID 7bdbe0... not found
-1287225016 94 Node 94: Data confirmed
-1288847648 1 GW: Decrypted data [9] from PID 36ad2a... (device 87)
-1288847648 1 GW: Data processing time: 0 ms
-1288898080 87 Node 87: Data confirmed
-1290315648 1 GW: Decrypted data [9] from PID b6239f... (device 81)
-1290315648 1 GW: Data processing time: 0 ms
-1290358080 81 Node 81: Data confirmed
-1300242648 1 GW: Decrypted data [9] from PID 78c1cb... (device 95)
-1300242648 1 GW: Data processing time: 0 ms
-1300292336 95 Node 95: Data confirmed
-1302293648 1 GW: Decrypted data [9] from PID b074da... (device 88)
-1302293648 1 GW: Data processing time: 0 ms
-1302351336 88 Node 88: Data confirmed
-1305790648 1 GW: Decrypted data [9] from PID 80868a... (device 82)
-1305790648 1 GW: Data processing time: 0 ms
-1305826080 82 Node 82: Data confirmed
-1313391648 1 GW: Decrypted data [9] from PID b86157... (device 96)
-1313391648 1 GW: Data processing time: 0 ms
-1313415336 96 Node 96: Data confirmed
-1316278648 1 GW: Decrypted data [9] from PID 1bfa32... (device 89)
-1316278648 1 GW: Data processing time: 0 ms
-1316335336 89 Node 89: Data confirmed
-1320886648 1 GW: Decrypted data [9] from PID 81746c... (device 83)
-1320886648 1 GW: Data processing time: 0 ms
-1320933080 83 Node 83: Data confirmed
-1326932648 1 GW: Decrypted data [9] from PID cc3b6a... (device 97)
-1326932648 1 GW: Data processing time: 0 ms
-1327002336 97 Node 97: Data confirmed
-1330848648 1 GW: Decrypted data [9] from PID bfddfc... (device 90)
-1330848648 1 GW: Data processing time: 0 ms
-1330877336 90 Node 90: Data confirmed
-1335936648 1 GW: Decrypted data [9] from PID 6734af... (device 84)
-1335936648 1 GW: Data processing time: 0 ms
-1335989080 84 Node 84: Data confirmed
-1339186648 1 GW: Decrypted data [9] from PID 825294... (device 98)
-1339186648 1 GW: Data processing time: 0 ms
-1339309336 98 Node 98: Data confirmed
-1345032648 1 GW: Decrypted data [9] from PID be9a75... (device 91)
-1345032648 1 GW: Data processing time: 0 ms
-1345091080 91 Node 91: Data confirmed
-1350103648 1 GW: Decrypted data [9] from PID df8099... (device 85)
-1350103648 1 GW: Data processing time: 0 ms
-1350147080 85 Node 85: Data confirmed
-1352623648 1 GW: Decrypted data [9] from PID 605e37... (device 99)
-1352623648 1 GW: Data processing time: 0 ms
-1352683336 99 Node 99: Data confirmed
-1358890648 1 GW: Decrypted data [9] from PID 34abe9... (device 92)
-1358890648 1 GW: Data processing time: 0 ms
-1358926872 92 Node 92: Data confirmed
-1365337648 1 GW: Decrypted data [9] from PID 0ae381... (device 86)
-1365337648 1 GW: Data processing time: 0 ms
-1365382080 86 Node 86: Data confirmed
-1366033648 1 GW: Decrypted data [9] from PID 39a182... (device 100)
-1366033648 1 GW: Data processing time: 0 ms
-1366079336 100 Node 100: Data confirmed
-1372673648 1 GW: Decrypted data [9] from PID b26d17... (device 93)
-1372673648 1 GW: Data processing time: 0 ms
-1372716080 93 Node 93: Data confirmed
-1376315648 1 GW: Decrypted data [9] from PID b6239f... (device 81)
-1376315648 1 GW: Data processing time: 0 ms
-1376365080 81 Node 81: Data confirmed
-1380799648 1 GW: Decrypted data [9] from PID 36ad2a... (device 87)
-1380799648 1 GW: Data processing time: 0 ms
-1380851080 87 Node 87: Data confirmed
-1386149648 1 GW: Rejected data ﾀﾔ PID 7bdbe0... not found
-1386224016 94 Node 94: Data confirmed
-1392782648 1 GW: Decrypted data [9] from PID 80868a... (device 82)
-1392782648 1 GW: Data processing time: 0 ms
-1392812080 82 Node 82: Data confirmed
-1395274648 1 GW: Decrypted data [9] from PID b074da... (device 88)
-1395274648 1 GW: Data processing time: 0 ms
-1395321336 88 Node 88: Data confirmed
-1400279648 1 GW: Decrypted data [9] from PID 78c1cb... (device 95)
-1400279648 1 GW: Data processing time: 0 ms
-1400379336 95 Node 95: Data confirmed
-1408905648 1 GW: Decrypted data [9] from PID 81746c... (device 83)
-1408905648 1 GW: Data processing time: 0 ms
-1408957080 83 Node 83: Data confirmed
-1410294648 1 GW: Decrypted data [9] from PID 1bfa32... (device 89)
-1410294648 1 GW: Data processing time: 0 ms
-1410372336 89 Node 89: Data confirmed
-1414400648 1 GW: Decrypted data [9] from PID b86157... (device 96)
-1414400648 1 GW: Data processing time: 0 ms
-1414496336 96 Node 96: Data confirmed
-1424911648 1 GW: Decrypted data [9] from PID 6734af... (device 84)
-1424911648 1 GW: Data processing time: 0 ms
-1424945080 84 Node 84: Data confirmed
-1425870648 1 GW: Decrypted data [9] from PID bfddfc... (device 90)
-1425870648 1 GW: Data processing time: 0 ms
-1425954336 90 Node 90: Data confirmed
-1428895648 1 GW: Decrypted data [9] from PID cc3b6a... (device 97)
-1428895648 1 GW: Data processing time: 0 ms
-1428985336 97 Node 97: Data confirmed
-1440112648 1 GW: Decrypted data [9] from PID df8099... (device 85)
-1440112648 1 GW: Data processing time: 0 ms
-1440143080 85 Node 85: Data confirmed
-1441043648 1 GW: Decrypted data [9] from PID be9a75... (device 91)
-1441043648 1 GW: Data processing time: 0 ms
-1441072080 91 Node 91: Data confirmed
-1442249648 1 GW: Decrypted data [9] from PID 825294... (device 98)
-1442249648 1 GW: Data processing time: 0 ms
-1442291336 98 Node 98: Data confirmed
-1455881648 1 GW: Decrypted data [9] from PID 34abe9... (device 92)
-1455881648 1 GW: Data processing time: 0 ms
-1455919080 92 Node 92: Data confirmed
-1456347648 1 GW: Decrypted data [9] from PID 0ae381... (device 86)
-1456347648 1 GW: Data processing time: 0 ms
-1456412080 86 Node 86: Data confirmed
-1456585648 1 GW: Decrypted data [9] from PID 605e37... (device 99)
-1456585648 1 GW: Data processing time: 0 ms
-1456648336 99 Node 99: Data confirmed
-1462280648 1 GW: Decrypted data [9] from PID b6239f... (device 81)
-1462280648 1 GW: Data processing time: 0 ms
-1462341080 81 Node 81: Data confirmed
-1470645648 1 GW: Decrypted data [9] from PID b26d17... (device 93)
-1470645648 1 GW: Data processing time: 0 ms
-1470694080 93 Node 93: Data confirmed
-1471044648 1 GW: Decrypted data [9] from PID 39a182... (device 100)
-1471044648 1 GW: Data processing time: 0 ms
-1471143336 100 Node 100: Data confirmed
-1472847648 1 GW: Decrypted data [9] from PID 36ad2a... (device 87)
-1472847648 1 GW: Data processing time: 0 ms
-1472903080 87 Node 87: Data confirmed
-1479767648 1 GW: Decrypted data [9] from PID 80868a... (device 82)
-1479767648 1 GW: Data processing time: 0 ms
-1479840080 82 Node 82: Data confirmed
-1485175648 1 GW: Rejected data ﾀﾔ PID 7bdbe0... not found
-1485261016 94 Node 94: Data confirmed
-1488304648 1 GW: Decrypted data [9] from PID b074da... (device 88)
-1488304648 1 GW: Data processing time: 0 ms
-1488382336 88 Node 88: Data confirmed
-1496894648 1 GW: Decrypted data [9] from PID 81746c... (device 83)
-1496894648 1 GW: Data processing time: 0 ms
-1496951080 83 Node 83: Data confirmed
-1500239848 1 GW: Decrypted data [9] from PID 78c1cb... (device 95)
-1500239848 1 GW: Data processing time: 0 ms
-1500300336 95 Node 95: Data confirmed
-1504273648 1 GW: Decrypted data [9] from PID 1bfa32... (device 89)
-1504273648 1 GW: Data processing time: 0 ms
-1504345336 89 Node 89: Data confirmed
-1513906264 1 GW: Decrypted data [9] from PID 6734af... (device 84)
-1513906264 1 GW: Data processing time: 0 ms
-1513943080 84 Node 84: Data confirmed
-1515380648 1 GW: Decrypted data [9] from PID b86157... (device 96)
-1515380648 1 GW: Data processing time: 0 ms
-1515442336 96 Node 96: Data confirmed
-1520847648 1 GW: Decrypted data [9] from PID bfddfc... (device 90)
-1520847648 1 GW: Data processing time: 0 ms
-1520910336 90 Node 90: Data confirmed
-1530091648 1 GW: Decrypted data [9] from PID df8099... (device 85)
-1530091648 1 GW: Data processing time: 0 ms
-1530156080 85 Node 85: Data confirmed
-1530869648 1 GW: Decrypted data [9] from PID cc3b6a... (device 97)
-1530869648 1 GW: Data processing time: 0 ms
-1530961336 97 Node 97: Data confirmed
-1537029648 1 GW: Decrypted data [9] from PID be9a75... (device 91)
-1537029648 1 GW: Data processing time: 0 ms
-1537087080 91 Node 91: Data confirmed
-1545210648 1 GW: Decrypted data [9] from PID 825294... (device 98)
-1545210648 1 GW: Data processing time: 0 ms
-1545279336 98 Node 98: Data confirmed
-1547295648 1 GW: Decrypted data [9] from PID 0ae381... (device 86)
-1547295648 1 GW: Data processing time: 0 ms
-1547335080 86 Node 86: Data confirmed
-1548301648 1 GW: Decrypted data [9] from PID b6239f... (device 81)
-1548301648 1 GW: Data processing time: 0 ms
-1548374080 81 Node 81: Data confirmed
-1552873648 1 GW: Decrypted data [9] from PID 34abe9... (device 92)
-1552873648 1 GW: Data processing time: 0 ms
-1552919080 92 Node 92: Data confirmed
-1560593648 1 GW: Decrypted data [9] from PID 605e37... (device 99)
-1560593648 1 GW: Data processing time: 0 ms
-1560650336 99 Node 99: Data confirmed
-1564829648 1 GW: Decrypted data [9] from PID 36ad2a... (device 87)
-1564829648 1 GW: Data processing time: 0 ms
-1564868080 87 Node 87: Data confirmed
-1566744648 1 GW: Decrypted data [9] from PID 80868a... (device 82)
-1566744648 1 GW: Data processing time: 0 ms
-1566801080 82 Node 82: Data confirmed
-1568674648 1 GW: Decrypted data [9] from PID b26d17... (device 93)
-1568674648 1 GW: Data processing time: 0 ms
-1568736080 93 Node 93: Data confirmed
-1576079648 1 GW: Decrypted data [9] from PID 39a182... (device 100)
-1576079648 1 GW: Data processing time: 0 ms
-1576184336 100 Node 100: Data confirmed
-1581305648 1 GW: Decrypted data [9] from PID b074da... (device 88)
-1581305648 1 GW: Data processing time: 0 ms
-1581348336 88 Node 88: Data confirmed
-1584149648 1 GW: Rejected data ﾀﾔ PID 7bdbe0... not found
-1584203016 94 Node 94: Data confirmed
-1584905648 1 GW: Decrypted data [9] from PID 81746c... (device 83)
-1584905648 1 GW: Data processing time: 0 ms
-1584967080 83 Node 83: Data confirmed
-1598307648 1 GW: Decrypted data [9] from PID 1bfa32... (device 89)
-1598307648 1 GW: Data processing time: 0 ms
-1598374336 89 Node 89: Data confirmed
-1600267648 1 GW: Decrypted data [9] from PID 78c1cb... (device 95)
-1600267648 1 GW: Data processing time: 0 ms
-1600353336 95 Node 95: Data confirmed
-1602924648 1 GW: Decrypted data [9] from PID 6734af... (device 84)
-1602924648 1 GW: Data processing time: 0 ms
-1602942080 84 Node 84: Data confirmed
-1615841648 1 GW: Decrypted data [9] from PID bfddfc... (device 90)
-1615841648 1 GW: Data processing time: 0 ms
-1615918336 90 Node 90: Data confirmed
-1616412648 1 GW: Decrypted data [9] from PID b86157... (device 96)
-1616412648 1 GW: Data processing time: 0 ms
-1616494336 96 Node 96: Data confirmed
-1620120648 1 GW: Decrypted data [9] from PID df8099... (device 85)
-1620120648 1 GW: Data processing time: 0 ms
-1620173080 85 Node 85: Data confirmed
-1632899648 1 GW: Decrypted data [9] from PID cc3b6a... (device 97)
-1632899648 1 GW: Data processing time: 0 ms
-1632976336 97 Node 97: Data confirmed
-1633025648 1 GW: Decrypted data [9] from PID be9a75... (device 91)
-1633025648 1 GW: Data processing time: 0 ms
-1633069080 91 Node 91: Data confirmed
-1634338648 1 GW: Decrypted data [9] from PID b6239f... (device 81)
-1634338648 1 GW: Data processing time: 0 ms
-1634390080 81 Node 81: Data confirmed
-1638326648 1 GW: Decrypted data [9] from PID 0ae381... (device 86)
-1638326648 1 GW: Data processing time: 0 ms
-1638368080 86 Node 86: Data confirmed
-1648237648 1 GW: Decrypted data [9] from PID 825294... (device 98)
-1648237648 1 GW: Data processing time: 0 ms
-1648283336 98 Node 98: Data confirmed
-1649893648 1 GW: Decrypted data [9] from PID 34abe9... (device 92)
-1649893648 1 GW: Data processing time: 0 ms
-1649948080 92 Node 92: Data confirmed
-1653785648 1 GW: Decrypted data [9] from PID 80868a... (device 82)
-1653785648 1 GW: Data processing time: 0 ms
-1653833080 82 Node 82: Data confirmed
-1656817648 1 GW: Decrypted data [9] from PID 36ad2a... (device 87)
-1656817648 1 GW: Data processing time: 0 ms
-1656860080 87 Node 87: Data confirmed
-1664563552 1 GW: Decrypted data [9] from PID 605e37... (device 99)
-1664563552 1 GW: Data processing time: 0 ms
-1664649672 99 Node 99: Data confirmed
-1666667648 1 GW: Decrypted data [9] from PID b26d17... (device 93)
-1666667648 1 GW: Data processing time: 0 ms
-1666707080 93 Node 93: Data confirmed
-1672910648 1 GW: Decrypted data [9] from PID 81746c... (device 83)
-1672910648 1 GW: Data processing time: 0 ms
-1672952080 83 Node 83: Data confirmed
-1674280552 1 GW: Decrypted data [9] from PID b074da... (device 88)
-1674280552 1 GW: Data processing time: 0 ms
-1674334336 88 Node 88: Data confirmed
-1681009648 1 GW: Decrypted data [9] from PID 39a182... (device 100)
-1681009648 1 GW: Data processing time: 0 ms
-1681054336 100 Node 100: Data confirmed
-1683145648 1 GW: Rejected data ﾀﾔ PID 7bdbe0... not found
-1683174016 94 Node 94: Data confirmed
-1691932648 1 GW: Decrypted data [9] from PID 6734af... (device 84)
-1691932648 1 GW: Data processing time: 0 ms
-1691985080 84 Node 84: Data confirmed
-1692275648 1 GW: Decrypted data [9] from PID 1bfa32... (device 89)
-1692275648 1 GW: Data processing time: 0 ms
-1692354336 89 Node 89: Data confirmed
-1700269648 1 GW: Decrypted data [9] from PID 78c1cb... (device 95)
-1700269648 1 GW: Data processing time: 0 ms
-1700336336 95 Node 95: Data confirmed
-1710109648 1 GW: Decrypted data [9] from PID df8099... (device 85)
-1710109648 1 GW: Data processing time: 0 ms
-1710147080 85 Node 85: Data confirmed
-1710865648 1 GW: Decrypted data [9] from PID bfddfc... (device 90)
-1710865648 1 GW: Data processing time: 0 ms
-1710956336 90 Node 90: Data confirmed
-1717375552 1 GW: Decrypted data [9] from PID b86157... (device 96)
-1717375552 1 GW: Data processing time: 0 ms
-1717445336 96 Node 96: Data confirmed
-1720338648 1 GW: Decrypted data [9] from PID b6239f... (device 81)
-1720338648 1 GW: Data processing time: 0 ms
-1720396080 81 Node 81: Data confirmed
-1729054648 1 GW: Decrypted data [9] from PID be9a75... (device 91)
-1729054648 1 GW: Data processing time: 0 ms
-1729087080 91 Node 91: Data confirmed
-1729305648 1 GW: Decrypted data [9] from PID 0ae381... (device 86)
-1729305648 1 GW: Data processing time: 0 ms
-1729368080 86 Node 86: Data confirmed
-1734894552 1 GW: Decrypted data [9] from PID cc3b6a... (device 97)
-1734894552 1 GW: Data processing time: 0 ms
-1734965336 97 Node 97: Data confirmed
-1740731264 1 GW: Decrypted data [9] from PID 80868a... (device 82)
-1740731264 1 GW: Data processing time: 0 ms
-1740791080 82 Node 82: Data confirmed
-1746892648 1 GW: Decrypted data [9] from PID 34abe9... (device 92)
-1746892648 1 GW: Data processing time: 0 ms
-1746948080 92 Node 92: Data confirmed
-1748807264 1 GW: Decrypted data [9] from PID 36ad2a... (device 87)
-1748807264 1 GW: Data processing time: 0 ms
-1748847080 87 Node 87: Data confirmed
-1751184648 1 GW: Decrypted data [9] from PID 825294... (device 98)
-1751184648 1 GW: Data processing time: 0 ms
-1751312336 98 Node 98: Data confirmed
-1760871648 1 GW: Decrypted data [9] from PID 81746c... (device 83)
-1760871648 1 GW: Data processing time: 0 ms
-1760914080 83 Node 83: Data confirmed
-1764663648 1 GW: Decrypted data [9] from PID b26d17... (device 93)
-1764663648 1 GW: Data processing time: 0 ms
-1764710080 93 Node 93: Data confirmed
-1767333648 1 GW: Decrypted data [9] from PID b074da... (device 88)
-1767333648 1 GW: Data processing time: 0 ms
-1767441336 88 Node 88: Data confirmed
-1768603648 1 GW: Decrypted data [9] from PID 605e37... (device 99)
-1768603648 1 GW: Data processing time: 0 ms
-1768682672 99 Node 99: Data confirmed
-1780927648 1 GW: Decrypted data [9] from PID 6734af... (device 84)
-1780927648 1 GW: Data processing time: 0 ms
-1780985080 84 Node 84: Data confirmed
-1782161648 1 GW: Rejected data ﾀﾔ PID 7bdbe0... not found
-1782191016 94 Node 94: Data confirmed
-1786045648 1 GW: Decrypted data [9] from PID 39a182... (device 100)
-1786045648 1 GW: Data processing time: 0 ms
-1786138336 100 Node 100: Data confirmed
-1786294648 1 GW: Decrypted data [9] from PID 1bfa32... (device 89)
-1786294648 1 GW: Data processing time: 0 ms
-1786374336 89 Node 89: Data confirmed
-TEST OK
-Test ended at simulation time: 1800000000
+﻿> Task :compileJava UP-TO-DATE
+> Task :processResources UP-TO-DATE
+> Task :classes UP-TO-DATE
+
+> Task :run
+[32mINFO  [main] [Cooja.java:1145] - Loading /opt/contiki-ng/examples/myproject/test-sim-100.csc random seed: null[0;39m
+> make COOJA_EEPROM=0 TARGET=cooja clean
+> make COOJA_EEPROM=0 -j22 gw-node.cooja TARGET=cooja
+  MKDIR     build/cooja/obj/.deps
+  CC        gw-node.c
+  CC        aes.c
+  CC        sha256.c
+  CC        ../../arch/platform/cooja/sys/cooja_mt.c
+  CC        ../../arch/platform/cooja/./rtimer-arch.c
+  CC        ../../arch/platform/cooja/dev/watchdog.c
+  CC        ../../arch/platform/cooja/./int-master.c
+  CC        ../../arch/platform/cooja/dev/beep.c
+  CC        ../../arch/platform/cooja/dev/ip.c
+  CC        ../../arch/platform/cooja/dev/leds-arch.c
+  CC        ../../arch/platform/cooja/dev/moteid.c
+  CC        ../../arch/platform/cooja/dev/pir-sensor.c
+  CC        ../../arch/platform/cooja/dev/rs232.c
+  CC        ../../arch/platform/cooja/dev/vib-sensor.c
+  CC        ../../arch/platform/cooja/sys/clock.c
+  CC        ../../arch/platform/cooja/sys/cooja-log.c
+  CC        ../../arch/platform/cooja/cfs/cfs-cooja.c
+  CC        ../../arch/platform/cooja/dev/cooja-radio.c
+  CC        ../../arch/platform/cooja/dev/eeprom.c
+  CC        ../../arch/platform/cooja/./slip-arch.c
+  CC        ../../arch/platform/cooja/./platform.c
+  CC        ../../arch/platform/cooja/./mtype.c
+  CC        ../../os/lib/random.c
+  CC        ../../os/lib/sensors.c
+  CC        ../../os/dev/leds.c
+  CC        ../../arch/platform/cooja/dev/gpio-hal-arch.c
+  CC        ../../arch/platform/cooja/dev/buttons.c
+  CC        ../../os/contiki-main.c
+  CC        ../../os/dev/gpio-hal.c
+  CC        ../../os/dev/button-hal.c
+  CC        ../../os/dev/nullradio.c
+  CC        ../../os/dev/serial-line.c
+  CC        ../../os/dev/slip.c
+  CC        ../../os/lib/aes-128.c
+  CC        ../../os/lib/assert.c
+  CC        ../../os/lib/bitrev.c
+  CC        ../../os/lib/cbor.c
+  CC        ../../os/lib/ccm-star.c
+  CC        ../../os/lib/circular-list.c
+  CC        ../../os/lib/crc16.c
+  CC        ../../os/lib/csprng.c
+  CC        ../../os/lib/dbl-circ-list.c
+  CC        ../../os/lib/dbl-list.c
+  CC        ../../os/lib/ecc-curve.c
+  CC        ../../os/lib/heapmem.c
+  CC        ../../os/lib/hexconv.c
+  CC        ../../os/lib/ifft.c
+  CC        ../../os/lib/iq-seeder.c
+  CC        ../../os/lib/memb.c
+  CC        ../../os/lib/list.c
+  CC        ../../os/lib/ringbuf.c
+  CC        ../../os/lib/ringbufindex.c
+  CC        ../../os/lib/sfc16-prng.c
+  CC        ../../os/lib/sfc32-prng.c
+  CC        ../../os/lib/sha-256.c
+  CC        ../../os/lib/trickle-timer.c
+  CC        ../../os/net/link-stats.c
+  CC        ../../os/net/linkaddr.c
+  CC        ../../os/net/nbr-table.c
+  CC        ../../os/net/net-debug.c
+  CC        ../../os/net/netstack.c
+  CC        ../../os/net/packetbuf.c
+  CC        ../../os/net/queuebuf.c
+  CC        ../../os/net/app-layer/coap/coap-block1.c
+  CC        ../../os/net/app-layer/coap/coap-blocking-api.c
+  CC        ../../os/net/app-layer/coap/coap-callback-api.c
+  CC        ../../os/net/app-layer/coap/coap-engine.c
+  CC        ../../os/net/app-layer/coap/coap-keystore-simple.c
+  CC        ../../os/net/app-layer/coap/coap-observe-client.c
+  CC        ../../os/net/app-layer/coap/coap-observe.c
+  CC        ../../os/net/app-layer/coap/coap-res-well-known-core.c
+  CC        ../../os/net/app-layer/coap/coap-separate.c
+  CC        ../../os/net/app-layer/coap/coap-timer-default.c
+  CC        ../../os/net/app-layer/coap/coap-timer.c
+  CC        ../../os/net/app-layer/coap/coap-transactions.c
+  CC        ../../os/net/app-layer/coap/coap-uip.c
+  CC        ../../os/net/app-layer/coap/coap.c
+  CC        ../../os/net/ipv6/ip64-addr.c
+  CC        ../../os/net/ipv6/psock.c
+  CC        ../../os/net/ipv6/sicslowpan.c
+  CC        ../../os/net/ipv6/simple-udp.c
+  CC        ../../os/net/ipv6/tcp-socket.c
+  CC        ../../os/net/ipv6/tcpip.c
+  CC        ../../os/net/ipv6/udp-socket.c
+  CC        ../../os/net/ipv6/uip-ds6-nbr.c
+  CC        ../../os/net/ipv6/uip-ds6-route.c
+  CC        ../../os/net/ipv6/uip-ds6.c
+  CC        ../../os/net/ipv6/uip-icmp6.c
+  CC        ../../os/net/ipv6/uip-nameserver.c
+  CC        ../../os/net/ipv6/uip-nd6.c
+  CC        ../../os/net/ipv6/uip-packetqueue.c
+  CC        ../../os/net/ipv6/uip-sr.c
+  CC        ../../os/net/ipv6/uip-udp-packet.c
+  CC        ../../os/net/ipv6/uip6.c
+  CC        ../../os/net/ipv6/uipbuf.c
+  CC        ../../os/net/ipv6/uiplib.c
+  CC        ../../os/net/mac/anti-replay.c
+  CC        ../../os/net/mac/ccm-star-packetbuf.c
+  CC        ../../os/net/mac/mac-sequence.c
+  CC        ../../os/net/mac/csma/csma-output.c
+  CC        ../../os/net/mac/csma/csma-security.c
+  CC        ../../os/net/mac/csma/csma.c
+  CC        ../../os/net/mac/framer/frame802154.c
+  CC        ../../os/net/mac/framer/frame802154e-ie.c
+  CC        ../../os/net/mac/framer/framer-802154.c
+  CC        ../../os/net/mac/framer/nullframer.c
+  CC        ../../os/net/routing/rpl-lite/rpl-dag-root.c
+  CC        ../../os/net/routing/rpl-lite/rpl-dag.c
+  CC        ../../os/net/routing/rpl-lite/rpl-ext-header.c
+  CC        ../../os/net/routing/rpl-lite/rpl-icmp6.c
+  CC        ../../os/net/routing/rpl-lite/rpl-mrhof.c
+  CC        ../../os/net/routing/rpl-lite/rpl-nbr-policy.c
+  CC        ../../os/net/routing/rpl-lite/rpl-neighbor.c
+  CC        ../../os/net/routing/rpl-lite/rpl-of0.c
+  CC        ../../os/net/routing/rpl-lite/rpl-timers.c
+  CC        ../../os/net/routing/rpl-lite/rpl.c
+  CC        ../../os/sys/atomic.c
+  CC        ../../os/sys/autostart.c
+  CC        ../../os/sys/compower.c
+  CC        ../../os/sys/ctimer.c
+  CC        ../../os/sys/energest.c
+  CC        ../../os/sys/etimer.c
+  CC        ../../os/sys/log.c
+  CC        ../../os/sys/mutex.c
+  CC        ../../os/sys/node-id.c
+  CC        ../../os/sys/process-mutex.c
+  CC        ../../os/sys/process.c
+  CC        ../../os/sys/rtimer.c
+  CC        ../../os/sys/stimer.c
+  CC        ../../os/sys/timer.c
+  LD        build/cooja/gw-node.cooja
+[96mWARN  [main] [Cooja.java:1525] - Replaced [CONTIKI_DIR]/examples/myproject/build/cooja/as-node.cooja with /opt/contiki-ng/examples/myproject/build/cooja/as-node.cooja, but could not find it. This does not have to be an error, as the file might be created later.[0;39m
+> make COOJA_EEPROM=0 TARGET=cooja clean
+> make COOJA_EEPROM=0 -j22 as-node.cooja TARGET=cooja
+  MKDIR     build/cooja/obj/.deps
+  CC        as-node.c
+  CC        aes.c
+  CC        sha256.c
+  CC        ../../arch/platform/cooja/./rtimer-arch.c
+  CC        ../../arch/platform/cooja/sys/cooja_mt.c
+  CC        ../../arch/platform/cooja/dev/watchdog.c
+  CC        ../../arch/platform/cooja/dev/beep.c
+  CC        ../../arch/platform/cooja/./int-master.c
+  CC        ../../arch/platform/cooja/dev/ip.c
+  CC        ../../arch/platform/cooja/dev/leds-arch.c
+  CC        ../../arch/platform/cooja/dev/pir-sensor.c
+  CC        ../../arch/platform/cooja/dev/moteid.c
+  CC        ../../arch/platform/cooja/dev/rs232.c
+  CC        ../../arch/platform/cooja/dev/vib-sensor.c
+  CC        ../../arch/platform/cooja/sys/clock.c
+  CC        ../../arch/platform/cooja/sys/cooja-log.c
+  CC        ../../arch/platform/cooja/cfs/cfs-cooja.c
+  CC        ../../arch/platform/cooja/dev/cooja-radio.c
+  CC        ../../arch/platform/cooja/dev/eeprom.c
+  CC        ../../arch/platform/cooja/./slip-arch.c
+  CC        ../../arch/platform/cooja/./platform.c
+  CC        ../../arch/platform/cooja/./mtype.c
+  CC        ../../os/lib/random.c
+  CC        ../../os/lib/sensors.c
+  CC        ../../os/dev/leds.c
+  CC        ../../arch/platform/cooja/dev/gpio-hal-arch.c
+  CC        ../../arch/platform/cooja/dev/buttons.c
+  CC        ../../os/contiki-main.c
+  CC        ../../os/dev/button-hal.c
+  CC        ../../os/dev/gpio-hal.c
+  CC        ../../os/dev/nullradio.c
+  CC        ../../os/dev/serial-line.c
+  CC        ../../os/dev/slip.c
+  CC        ../../os/lib/assert.c
+  CC        ../../os/lib/aes-128.c
+  CC        ../../os/lib/bitrev.c
+  CC        ../../os/lib/cbor.c
+  CC        ../../os/lib/ccm-star.c
+  CC        ../../os/lib/circular-list.c
+  CC        ../../os/lib/crc16.c
+  CC        ../../os/lib/csprng.c
+  CC        ../../os/lib/dbl-circ-list.c
+  CC        ../../os/lib/dbl-list.c
+  CC        ../../os/lib/ecc-curve.c
+  CC        ../../os/lib/heapmem.c
+  CC        ../../os/lib/hexconv.c
+  CC        ../../os/lib/ifft.c
+  CC        ../../os/lib/iq-seeder.c
+  CC        ../../os/lib/list.c
+  CC        ../../os/lib/memb.c
+  CC        ../../os/lib/ringbuf.c
+  CC        ../../os/lib/ringbufindex.c
+  CC        ../../os/lib/sfc16-prng.c
+  CC        ../../os/lib/sfc32-prng.c
+  CC        ../../os/lib/sha-256.c
+  CC        ../../os/lib/trickle-timer.c
+  CC        ../../os/net/link-stats.c
+  CC        ../../os/net/linkaddr.c
+  CC        ../../os/net/nbr-table.c
+  CC        ../../os/net/net-debug.c
+  CC        ../../os/net/netstack.c
+  CC        ../../os/net/packetbuf.c
+  CC        ../../os/net/queuebuf.c
+  CC        ../../os/net/app-layer/coap/coap-block1.c
+  CC        ../../os/net/app-layer/coap/coap-blocking-api.c
+  CC        ../../os/net/app-layer/coap/coap-callback-api.c
+  CC        ../../os/net/app-layer/coap/coap-engine.c
+  CC        ../../os/net/app-layer/coap/coap-observe-client.c
+  CC        ../../os/net/app-layer/coap/coap-keystore-simple.c
+  CC        ../../os/net/app-layer/coap/coap-observe.c
+  CC        ../../os/net/app-layer/coap/coap-res-well-known-core.c
+  CC        ../../os/net/app-layer/coap/coap-separate.c
+  CC        ../../os/net/app-layer/coap/coap-timer-default.c
+  CC        ../../os/net/app-layer/coap/coap-timer.c
+  CC        ../../os/net/app-layer/coap/coap-transactions.c
+  CC        ../../os/net/app-layer/coap/coap-uip.c
+  CC        ../../os/net/app-layer/coap/coap.c
+  CC        ../../os/net/ipv6/ip64-addr.c
+  CC        ../../os/net/ipv6/psock.c
+  CC        ../../os/net/ipv6/sicslowpan.c
+  CC        ../../os/net/ipv6/simple-udp.c
+  CC        ../../os/net/ipv6/tcp-socket.c
+  CC        ../../os/net/ipv6/tcpip.c
+  CC        ../../os/net/ipv6/udp-socket.c
+  CC        ../../os/net/ipv6/uip-ds6-nbr.c
+  CC        ../../os/net/ipv6/uip-ds6-route.c
+  CC        ../../os/net/ipv6/uip-ds6.c
+  CC        ../../os/net/ipv6/uip-icmp6.c
+  CC        ../../os/net/ipv6/uip-nameserver.c
+  CC        ../../os/net/ipv6/uip-nd6.c
+  CC        ../../os/net/ipv6/uip-packetqueue.c
+  CC        ../../os/net/ipv6/uip-sr.c
+  CC        ../../os/net/ipv6/uip-udp-packet.c
+  CC        ../../os/net/ipv6/uip6.c
+  CC        ../../os/net/ipv6/uipbuf.c
+  CC        ../../os/net/ipv6/uiplib.c
+  CC        ../../os/net/mac/anti-replay.c
+  CC        ../../os/net/mac/ccm-star-packetbuf.c
+  CC        ../../os/net/mac/mac-sequence.c
+  CC        ../../os/net/mac/csma/csma-output.c
+  CC        ../../os/net/mac/csma/csma-security.c
+  CC        ../../os/net/mac/csma/csma.c
+  CC        ../../os/net/mac/framer/frame802154.c
+  CC        ../../os/net/mac/framer/frame802154e-ie.c
+  CC        ../../os/net/mac/framer/framer-802154.c
+  CC        ../../os/net/mac/framer/nullframer.c
+  CC        ../../os/net/routing/rpl-lite/rpl-dag-root.c
+  CC        ../../os/net/routing/rpl-lite/rpl-dag.c
+  CC        ../../os/net/routing/rpl-lite/rpl-ext-header.c
+  CC        ../../os/net/routing/rpl-lite/rpl-icmp6.c
+  CC        ../../os/net/routing/rpl-lite/rpl-mrhof.c
+  CC        ../../os/net/routing/rpl-lite/rpl-nbr-policy.c
+  CC        ../../os/net/routing/rpl-lite/rpl-neighbor.c
+  CC        ../../os/net/routing/rpl-lite/rpl-of0.c
+  CC        ../../os/net/routing/rpl-lite/rpl-timers.c
+  CC        ../../os/net/routing/rpl-lite/rpl.c
+  CC        ../../os/sys/atomic.c
+  CC        ../../os/sys/autostart.c
+  CC        ../../os/sys/compower.c
+  CC        ../../os/sys/ctimer.c
+  CC        ../../os/sys/energest.c
+  CC        ../../os/sys/etimer.c
+  CC        ../../os/sys/log.c
+  CC        ../../os/sys/mutex.c
+  CC        ../../os/sys/node-id.c
+  CC        ../../os/sys/process-mutex.c
+  CC        ../../os/sys/process.c
+  CC        ../../os/sys/rtimer.c
+  CC        ../../os/sys/stimer.c
+  CC        ../../os/sys/timer.c
+  LD        build/cooja/as-node.cooja
+[96mWARN  [main] [Cooja.java:1525] - Replaced [CONTIKI_DIR]/examples/myproject/build/cooja/device-node.cooja with /opt/contiki-ng/examples/myproject/build/cooja/device-node.cooja, but could not find it. This does not have to be an error, as the file might be created later.[0;39m
+> make COOJA_EEPROM=0 TARGET=cooja clean
+> make COOJA_EEPROM=0 -j22 device-node.cooja TARGET=cooja
+  MKDIR     build/cooja/obj/.deps
+  CC        device-node.c
+  CC        aes.c
+  CC        sha256.c
+  CC        ../../arch/platform/cooja/sys/cooja_mt.c
+  CC        ../../arch/platform/cooja/./rtimer-arch.c
+  CC        ../../arch/platform/cooja/dev/watchdog.c
+  CC        ../../arch/platform/cooja/./int-master.c
+  CC        ../../arch/platform/cooja/dev/beep.c
+  CC        ../../arch/platform/cooja/dev/ip.c
+  CC        ../../arch/platform/cooja/dev/leds-arch.c
+  CC        ../../arch/platform/cooja/dev/moteid.c
+  CC        ../../arch/platform/cooja/dev/pir-sensor.c
+  CC        ../../arch/platform/cooja/dev/rs232.c
+  CC        ../../arch/platform/cooja/dev/vib-sensor.c
+  CC        ../../arch/platform/cooja/sys/cooja-log.c
+  CC        ../../arch/platform/cooja/sys/clock.c
+  CC        ../../arch/platform/cooja/cfs/cfs-cooja.c
+  CC        ../../arch/platform/cooja/dev/cooja-radio.c
+  CC        ../../arch/platform/cooja/dev/eeprom.c
+  CC        ../../arch/platform/cooja/./slip-arch.c
+  CC        ../../arch/platform/cooja/./platform.c
+  CC        ../../arch/platform/cooja/./mtype.c
+  CC        ../../os/lib/random.c
+  CC        ../../os/lib/sensors.c
+  CC        ../../os/dev/leds.c
+  CC        ../../arch/platform/cooja/dev/gpio-hal-arch.c
+  CC        ../../arch/platform/cooja/dev/buttons.c
+  CC        ../../os/contiki-main.c
+  CC        ../../os/dev/button-hal.c
+  CC        ../../os/dev/gpio-hal.c
+  CC        ../../os/dev/nullradio.c
+  CC        ../../os/dev/serial-line.c
+  CC        ../../os/dev/slip.c
+  CC        ../../os/lib/aes-128.c
+  CC        ../../os/lib/assert.c
+  CC        ../../os/lib/bitrev.c
+  CC        ../../os/lib/cbor.c
+  CC        ../../os/lib/ccm-star.c
+  CC        ../../os/lib/circular-list.c
+  CC        ../../os/lib/crc16.c
+  CC        ../../os/lib/csprng.c
+  CC        ../../os/lib/dbl-circ-list.c
+  CC        ../../os/lib/dbl-list.c
+  CC        ../../os/lib/ecc-curve.c
+  CC        ../../os/lib/heapmem.c
+  CC        ../../os/lib/hexconv.c
+  CC        ../../os/lib/ifft.c
+  CC        ../../os/lib/iq-seeder.c
+  CC        ../../os/lib/list.c
+  CC        ../../os/lib/memb.c
+  CC        ../../os/lib/ringbuf.c
+  CC        ../../os/lib/ringbufindex.c
+  CC        ../../os/lib/sfc16-prng.c
+  CC        ../../os/lib/sfc32-prng.c
+  CC        ../../os/lib/sha-256.c
+  CC        ../../os/lib/trickle-timer.c
+  CC        ../../os/net/link-stats.c
+  CC        ../../os/net/linkaddr.c
+  CC        ../../os/net/nbr-table.c
+  CC        ../../os/net/net-debug.c
+  CC        ../../os/net/netstack.c
+  CC        ../../os/net/packetbuf.c
+  CC        ../../os/net/queuebuf.c
+  CC        ../../os/net/app-layer/coap/coap-block1.c
+  CC        ../../os/net/app-layer/coap/coap-blocking-api.c
+  CC        ../../os/net/app-layer/coap/coap-callback-api.c
+  CC        ../../os/net/app-layer/coap/coap-engine.c
+  CC        ../../os/net/app-layer/coap/coap-keystore-simple.c
+  CC        ../../os/net/app-layer/coap/coap-observe-client.c
+  CC        ../../os/net/app-layer/coap/coap-observe.c
+  CC        ../../os/net/app-layer/coap/coap-res-well-known-core.c
+  CC        ../../os/net/app-layer/coap/coap-separate.c
+  CC        ../../os/net/app-layer/coap/coap-timer-default.c
+  CC        ../../os/net/app-layer/coap/coap-timer.c
+  CC        ../../os/net/app-layer/coap/coap-transactions.c
+  CC        ../../os/net/app-layer/coap/coap-uip.c
+  CC        ../../os/net/app-layer/coap/coap.c
+  CC        ../../os/net/ipv6/ip64-addr.c
+  CC        ../../os/net/ipv6/psock.c
+  CC        ../../os/net/ipv6/sicslowpan.c
+  CC        ../../os/net/ipv6/simple-udp.c
+  CC        ../../os/net/ipv6/tcp-socket.c
+  CC        ../../os/net/ipv6/tcpip.c
+  CC        ../../os/net/ipv6/udp-socket.c
+  CC        ../../os/net/ipv6/uip-ds6-nbr.c
+  CC        ../../os/net/ipv6/uip-ds6-route.c
+  CC        ../../os/net/ipv6/uip-ds6.c
+  CC        ../../os/net/ipv6/uip-icmp6.c
+  CC        ../../os/net/ipv6/uip-nameserver.c
+  CC        ../../os/net/ipv6/uip-nd6.c
+  CC        ../../os/net/ipv6/uip-packetqueue.c
+  CC        ../../os/net/ipv6/uip-sr.c
+  CC        ../../os/net/ipv6/uip-udp-packet.c
+  CC        ../../os/net/ipv6/uip6.c
+  CC        ../../os/net/ipv6/uipbuf.c
+  CC        ../../os/net/ipv6/uiplib.c
+  CC        ../../os/net/mac/anti-replay.c
+  CC        ../../os/net/mac/ccm-star-packetbuf.c
+  CC        ../../os/net/mac/mac-sequence.c
+  CC        ../../os/net/mac/csma/csma-output.c
+  CC        ../../os/net/mac/csma/csma-security.c
+  CC        ../../os/net/mac/csma/csma.c
+  CC        ../../os/net/mac/framer/frame802154.c
+  CC        ../../os/net/mac/framer/frame802154e-ie.c
+  CC        ../../os/net/mac/framer/framer-802154.c
+  CC        ../../os/net/mac/framer/nullframer.c
+  CC        ../../os/net/routing/rpl-lite/rpl-dag-root.c
+  CC        ../../os/net/routing/rpl-lite/rpl-dag.c
+  CC        ../../os/net/routing/rpl-lite/rpl-ext-header.c
+  CC        ../../os/net/routing/rpl-lite/rpl-icmp6.c
+  CC        ../../os/net/routing/rpl-lite/rpl-mrhof.c
+  CC        ../../os/net/routing/rpl-lite/rpl-nbr-policy.c
+  CC        ../../os/net/routing/rpl-lite/rpl-neighbor.c
+  CC        ../../os/net/routing/rpl-lite/rpl-of0.c
+  CC        ../../os/net/routing/rpl-lite/rpl-timers.c
+  CC        ../../os/net/routing/rpl-lite/rpl.c
+  CC        ../../os/sys/atomic.c
+  CC        ../../os/sys/autostart.c
+  CC        ../../os/sys/compower.c
+  CC        ../../os/sys/ctimer.c
+  CC        ../../os/sys/energest.c
+  CC        ../../os/sys/etimer.c
+  CC        ../../os/sys/log.c
+  CC        ../../os/sys/mutex.c
+  CC        ../../os/sys/node-id.c
+  CC        ../../os/sys/process-mutex.c
+  CC        ../../os/sys/process.c
+  CC        ../../os/sys/rtimer.c
+  CC        ../../os/sys/stimer.c
+  CC        ../../os/sys/timer.c
+  LD        build/cooja/device-node.cooja
+[32mINFO  [main] [LogScriptEngine.java:231] - Script timeout in 1800000 ms[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] -  5% completed, 197.8 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 10% completed, 121.5 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 15% completed, 89.3 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 20% completed, 67.7 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 25% completed, 54.0 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 30% completed, 45.9 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 35% completed, 38.0 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 40% completed, 31.8 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 45% completed, 27.0 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 50% completed, 23.2 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 55% completed, 20.2 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 60% completed, 17.2 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 65% completed, 14.3 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 70% completed, 11.7 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 75% completed,  9.3 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 80% completed,  7.2 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 85% completed,  5.2 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 90% completed,  3.4 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:320] - 95% completed,  1.6 sec remaining[0;39m
+[32mINFO  [sim] [LogScriptEngine.java:294] - Timeout event @ 1800000000[0;39m
+[32mINFO  [sim] [Simulation.java:450] - Runtime: 33271 ms. Simulated time: 1800000 ms. Speedup: 54.10116918637853[0;39m
+[32mINFO  [main] [Cooja.java:1171] - TEST OK
+[0;39m
+
+BUILD SUCCESSFUL in 37s
+3 actionable tasks: 1 executed, 2 up-to-date

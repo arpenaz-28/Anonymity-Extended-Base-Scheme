@@ -2,11 +2,16 @@
 #define PROJECT_CONF_H_
 
 /* --------------------------------------------------------------------------
- * Topology (COOJA): node 1 = Gateway (RPL root), node 2 = Authentication
- * Server.  Device nodes start from node 3 and upward.
+ * Topology (COOJA):
+ *   Node 1        = Gateway (RPL root)
+ *   Nodes 2–80    = Authentication Servers (79; only 2 & 3 active)
+ *   Nodes 81–100  = Device nodes (20 total)
+ *   Devices 81–90  → AS 2,  Devices 91–100 → AS 3
  * -------------------------------------------------------------------------- */
-#define GW_NODE_ID   1
-#define AS_NODE_ID   2
+#define GW_NODE_ID       1
+#define AS_NODE_ID       2
+#define AS_NODE_ID2      3
+#define FIRST_DEVICE_ID  81
 
 /* Enable energest for energy measurements */
 #define ENERGEST_CONF_ON 1

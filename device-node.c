@@ -159,7 +159,7 @@ static int ts2_seq_fresh(uint8_t recv, uint8_t last)
 static void discover_endpoints(void)
 {
     uip_ipaddr_t a;
-    uint8_t a_id = (uint8_t)AS_NODE_ID;
+    uint8_t a_id = id_as;   /* set per-device before this call */
     uint8_t g_id = (uint8_t)GW_NODE_ID;
 
     uip_ip6addr_u8(&a, 0xfd,0,0,0,0,0,0,0,
@@ -275,7 +275,8 @@ PROCESS_THREAD(device_node, ev, data)
     PROCESS_BEGIN();
 
     id_d  = (uint8_t)node_id;
-    id_as = (uint8_t)AS_NODE_ID;
+    /* Devices 81–90 → AS 2,  Devices 91–100 → AS 3 */
+    id_as = (node_id <= 90) ? (uint8_t)AS_NODE_ID : (uint8_t)AS_NODE_ID2;
 
     discover_endpoints();
 
